@@ -156,32 +156,32 @@ main1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/build
 .PHONY : main1/fast
 
-list_/1.o: list_/1.cpp.o
+Basic_prac/1.o: Basic_prac/1.cpp.o
 
-.PHONY : list_/1.o
+.PHONY : Basic_prac/1.o
 
 # target to build an object file
-list_/1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main2.dir/build.make CMakeFiles/main2.dir/list_/1.cpp.o
-.PHONY : list_/1.cpp.o
+Basic_prac/1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main2.dir/build.make CMakeFiles/main2.dir/Basic_prac/1.cpp.o
+.PHONY : Basic_prac/1.cpp.o
 
-list_/1.i: list_/1.cpp.i
+Basic_prac/1.i: Basic_prac/1.cpp.i
 
-.PHONY : list_/1.i
+.PHONY : Basic_prac/1.i
 
 # target to preprocess a source file
-list_/1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main2.dir/build.make CMakeFiles/main2.dir/list_/1.cpp.i
-.PHONY : list_/1.cpp.i
+Basic_prac/1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main2.dir/build.make CMakeFiles/main2.dir/Basic_prac/1.cpp.i
+.PHONY : Basic_prac/1.cpp.i
 
-list_/1.s: list_/1.cpp.s
+Basic_prac/1.s: Basic_prac/1.cpp.s
 
-.PHONY : list_/1.s
+.PHONY : Basic_prac/1.s
 
 # target to generate assembly for a file
-list_/1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main2.dir/build.make CMakeFiles/main2.dir/list_/1.cpp.s
-.PHONY : list_/1.cpp.s
+Basic_prac/1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main2.dir/build.make CMakeFiles/main2.dir/Basic_prac/1.cpp.s
+.PHONY : Basic_prac/1.cpp.s
 
 main.o: main.cpp.o
 
@@ -220,9 +220,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... main1"
 	@echo "... main2"
-	@echo "... list_/1.o"
-	@echo "... list_/1.i"
-	@echo "... list_/1.s"
+	@echo "... Basic_prac/1.o"
+	@echo "... Basic_prac/1.i"
+	@echo "... Basic_prac/1.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

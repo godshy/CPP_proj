@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/list_/1.cpp" "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles/main2.dir/list_/1.cpp.o"
+  "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/1.cpp" "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles/main2.dir/Basic_prac/1.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

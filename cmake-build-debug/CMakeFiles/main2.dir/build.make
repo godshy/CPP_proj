@@ -77,27 +77,27 @@ include CMakeFiles/main2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/main2.dir/flags.make
 
-CMakeFiles/main2.dir/list_/1.cpp.o: CMakeFiles/main2.dir/flags.make
-CMakeFiles/main2.dir/list_/1.cpp.o: ../list_/1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main2.dir/list_/1.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main2.dir/list_/1.cpp.o -c "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/list_/1.cpp"
+CMakeFiles/main2.dir/Basic_prac/1.cpp.o: CMakeFiles/main2.dir/flags.make
+CMakeFiles/main2.dir/Basic_prac/1.cpp.o: ../Basic_prac/1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main2.dir/Basic_prac/1.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main2.dir/Basic_prac/1.cpp.o -c "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/1.cpp"
 
-CMakeFiles/main2.dir/list_/1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main2.dir/list_/1.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/list_/1.cpp" > CMakeFiles/main2.dir/list_/1.cpp.i
+CMakeFiles/main2.dir/Basic_prac/1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main2.dir/Basic_prac/1.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/1.cpp" > CMakeFiles/main2.dir/Basic_prac/1.cpp.i
 
-CMakeFiles/main2.dir/list_/1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main2.dir/list_/1.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/list_/1.cpp" -o CMakeFiles/main2.dir/list_/1.cpp.s
+CMakeFiles/main2.dir/Basic_prac/1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main2.dir/Basic_prac/1.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/1.cpp" -o CMakeFiles/main2.dir/Basic_prac/1.cpp.s
 
 # Object files for target main2
 main2_OBJECTS = \
-"CMakeFiles/main2.dir/list_/1.cpp.o"
+"CMakeFiles/main2.dir/Basic_prac/1.cpp.o"
 
 # External object files for target main2
 main2_EXTERNAL_OBJECTS =
 
-main2: CMakeFiles/main2.dir/list_/1.cpp.o
+main2: CMakeFiles/main2.dir/Basic_prac/1.cpp.o
 main2: CMakeFiles/main2.dir/build.make
 main2: CMakeFiles/main2.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable main2"
