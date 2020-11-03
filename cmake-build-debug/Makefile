@@ -131,17 +131,30 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named main2
+# Target rules for targets named ep2_2
 
 # Build rule for target.
-main2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 main2
-.PHONY : main2
+ep2_2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep2_2
+.PHONY : ep2_2
 
 # fast build rule for target.
-main2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main2.dir/build.make CMakeFiles/main2.dir/build
-.PHONY : main2/fast
+ep2_2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_2.dir/build.make CMakeFiles/ep2_2.dir/build
+.PHONY : ep2_2/fast
+
+#=============================================================================
+# Target rules for targets named swap
+
+# Build rule for target.
+swap: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 swap
+.PHONY : swap
+
+# fast build rule for target.
+swap/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/swap.dir/build.make CMakeFiles/swap.dir/build
+.PHONY : swap/fast
 
 #=============================================================================
 # Target rules for targets named main1
@@ -155,6 +168,58 @@ main1: cmake_check_build_system
 main1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/build
 .PHONY : main1/fast
+
+#=============================================================================
+# Target rules for targets named cinout
+
+# Build rule for target.
+cinout: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 cinout
+.PHONY : cinout
+
+# fast build rule for target.
+cinout/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cinout.dir/build.make CMakeFiles/cinout.dir/build
+.PHONY : cinout/fast
+
+#=============================================================================
+# Target rules for targets named ep2_3
+
+# Build rule for target.
+ep2_3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep2_3
+.PHONY : ep2_3
+
+# fast build rule for target.
+ep2_3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_3.dir/build.make CMakeFiles/ep2_3.dir/build
+.PHONY : ep2_3/fast
+
+#=============================================================================
+# Target rules for targets named main2
+
+# Build rule for target.
+main2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 main2
+.PHONY : main2
+
+# fast build rule for target.
+main2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main2.dir/build.make CMakeFiles/main2.dir/build
+.PHONY : main2/fast
+
+#=============================================================================
+# Target rules for targets named ep2_1
+
+# Build rule for target.
+ep2_1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep2_1
+.PHONY : ep2_1
+
+# fast build rule for target.
+ep2_1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_1.dir/build.make CMakeFiles/ep2_1.dir/build
+.PHONY : ep2_1/fast
 
 Basic_prac/1.o: Basic_prac/1.cpp.o
 
@@ -182,6 +247,144 @@ Basic_prac/1.s: Basic_prac/1.cpp.s
 Basic_prac/1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main2.dir/build.make CMakeFiles/main2.dir/Basic_prac/1.cpp.s
 .PHONY : Basic_prac/1.cpp.s
+
+Basic_prac/cin_out.o: Basic_prac/cin_out.cpp.o
+
+.PHONY : Basic_prac/cin_out.o
+
+# target to build an object file
+Basic_prac/cin_out.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/Basic_prac/cin_out.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cinout.dir/build.make CMakeFiles/cinout.dir/Basic_prac/cin_out.cpp.o
+.PHONY : Basic_prac/cin_out.cpp.o
+
+Basic_prac/cin_out.i: Basic_prac/cin_out.cpp.i
+
+.PHONY : Basic_prac/cin_out.i
+
+# target to preprocess a source file
+Basic_prac/cin_out.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/Basic_prac/cin_out.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cinout.dir/build.make CMakeFiles/cinout.dir/Basic_prac/cin_out.cpp.i
+.PHONY : Basic_prac/cin_out.cpp.i
+
+Basic_prac/cin_out.s: Basic_prac/cin_out.cpp.s
+
+.PHONY : Basic_prac/cin_out.s
+
+# target to generate assembly for a file
+Basic_prac/cin_out.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/Basic_prac/cin_out.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cinout.dir/build.make CMakeFiles/cinout.dir/Basic_prac/cin_out.cpp.s
+.PHONY : Basic_prac/cin_out.cpp.s
+
+Basic_prac/ep2_prac.o: Basic_prac/ep2_prac.cpp.o
+
+.PHONY : Basic_prac/ep2_prac.o
+
+# target to build an object file
+Basic_prac/ep2_prac.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_1.dir/build.make CMakeFiles/ep2_1.dir/Basic_prac/ep2_prac.cpp.o
+.PHONY : Basic_prac/ep2_prac.cpp.o
+
+Basic_prac/ep2_prac.i: Basic_prac/ep2_prac.cpp.i
+
+.PHONY : Basic_prac/ep2_prac.i
+
+# target to preprocess a source file
+Basic_prac/ep2_prac.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_1.dir/build.make CMakeFiles/ep2_1.dir/Basic_prac/ep2_prac.cpp.i
+.PHONY : Basic_prac/ep2_prac.cpp.i
+
+Basic_prac/ep2_prac.s: Basic_prac/ep2_prac.cpp.s
+
+.PHONY : Basic_prac/ep2_prac.s
+
+# target to generate assembly for a file
+Basic_prac/ep2_prac.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_1.dir/build.make CMakeFiles/ep2_1.dir/Basic_prac/ep2_prac.cpp.s
+.PHONY : Basic_prac/ep2_prac.cpp.s
+
+Basic_prac/ep2_prac_2.o: Basic_prac/ep2_prac_2.cpp.o
+
+.PHONY : Basic_prac/ep2_prac_2.o
+
+# target to build an object file
+Basic_prac/ep2_prac_2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_2.dir/build.make CMakeFiles/ep2_2.dir/Basic_prac/ep2_prac_2.cpp.o
+.PHONY : Basic_prac/ep2_prac_2.cpp.o
+
+Basic_prac/ep2_prac_2.i: Basic_prac/ep2_prac_2.cpp.i
+
+.PHONY : Basic_prac/ep2_prac_2.i
+
+# target to preprocess a source file
+Basic_prac/ep2_prac_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_2.dir/build.make CMakeFiles/ep2_2.dir/Basic_prac/ep2_prac_2.cpp.i
+.PHONY : Basic_prac/ep2_prac_2.cpp.i
+
+Basic_prac/ep2_prac_2.s: Basic_prac/ep2_prac_2.cpp.s
+
+.PHONY : Basic_prac/ep2_prac_2.s
+
+# target to generate assembly for a file
+Basic_prac/ep2_prac_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_2.dir/build.make CMakeFiles/ep2_2.dir/Basic_prac/ep2_prac_2.cpp.s
+.PHONY : Basic_prac/ep2_prac_2.cpp.s
+
+Basic_prac/ep2_prac_3.o: Basic_prac/ep2_prac_3.cpp.o
+
+.PHONY : Basic_prac/ep2_prac_3.o
+
+# target to build an object file
+Basic_prac/ep2_prac_3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_3.dir/build.make CMakeFiles/ep2_3.dir/Basic_prac/ep2_prac_3.cpp.o
+.PHONY : Basic_prac/ep2_prac_3.cpp.o
+
+Basic_prac/ep2_prac_3.i: Basic_prac/ep2_prac_3.cpp.i
+
+.PHONY : Basic_prac/ep2_prac_3.i
+
+# target to preprocess a source file
+Basic_prac/ep2_prac_3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_3.dir/build.make CMakeFiles/ep2_3.dir/Basic_prac/ep2_prac_3.cpp.i
+.PHONY : Basic_prac/ep2_prac_3.cpp.i
+
+Basic_prac/ep2_prac_3.s: Basic_prac/ep2_prac_3.cpp.s
+
+.PHONY : Basic_prac/ep2_prac_3.s
+
+# target to generate assembly for a file
+Basic_prac/ep2_prac_3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_3.dir/build.make CMakeFiles/ep2_3.dir/Basic_prac/ep2_prac_3.cpp.s
+.PHONY : Basic_prac/ep2_prac_3.cpp.s
+
+Basic_prac/swap_func.o: Basic_prac/swap_func.cpp.o
+
+.PHONY : Basic_prac/swap_func.o
+
+# target to build an object file
+Basic_prac/swap_func.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/swap.dir/build.make CMakeFiles/swap.dir/Basic_prac/swap_func.cpp.o
+.PHONY : Basic_prac/swap_func.cpp.o
+
+Basic_prac/swap_func.i: Basic_prac/swap_func.cpp.i
+
+.PHONY : Basic_prac/swap_func.i
+
+# target to preprocess a source file
+Basic_prac/swap_func.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/swap.dir/build.make CMakeFiles/swap.dir/Basic_prac/swap_func.cpp.i
+.PHONY : Basic_prac/swap_func.cpp.i
+
+Basic_prac/swap_func.s: Basic_prac/swap_func.cpp.s
+
+.PHONY : Basic_prac/swap_func.s
+
+# target to generate assembly for a file
+Basic_prac/swap_func.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/swap.dir/build.make CMakeFiles/swap.dir/Basic_prac/swap_func.cpp.s
+.PHONY : Basic_prac/swap_func.cpp.s
 
 main.o: main.cpp.o
 
@@ -218,11 +421,31 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... cinout"
+	@echo "... ep2_1"
+	@echo "... ep2_2"
+	@echo "... ep2_3"
 	@echo "... main1"
 	@echo "... main2"
+	@echo "... swap"
 	@echo "... Basic_prac/1.o"
 	@echo "... Basic_prac/1.i"
 	@echo "... Basic_prac/1.s"
+	@echo "... Basic_prac/cin_out.o"
+	@echo "... Basic_prac/cin_out.i"
+	@echo "... Basic_prac/cin_out.s"
+	@echo "... Basic_prac/ep2_prac.o"
+	@echo "... Basic_prac/ep2_prac.i"
+	@echo "... Basic_prac/ep2_prac.s"
+	@echo "... Basic_prac/ep2_prac_2.o"
+	@echo "... Basic_prac/ep2_prac_2.i"
+	@echo "... Basic_prac/ep2_prac_2.s"
+	@echo "... Basic_prac/ep2_prac_3.o"
+	@echo "... Basic_prac/ep2_prac_3.i"
+	@echo "... Basic_prac/ep2_prac_3.s"
+	@echo "... Basic_prac/swap_func.o"
+	@echo "... Basic_prac/swap_func.i"
+	@echo "... Basic_prac/swap_func.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

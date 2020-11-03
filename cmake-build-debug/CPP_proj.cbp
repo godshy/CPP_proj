@@ -37,8 +37,8 @@
 					<DistClean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="main2">
-				<Option output="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/main2" prefix_auto="0" extension_auto="0"/>
+			<Target title="ep2_2">
+				<Option output="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/ep2_2" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -52,14 +52,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 main2"/>
+					<Build command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 ep2_2"/>
 					<CompileFile command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="main2/fast">
-				<Option output="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/main2" prefix_auto="0" extension_auto="0"/>
+			<Target title="ep2_2/fast">
+				<Option output="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/ep2_2" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -73,7 +73,49 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 main2/fast"/>
+					<Build command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 ep2_2/fast"/>
+					<CompileFile command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="swap">
+				<Option output="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/swap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 swap"/>
+					<CompileFile command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="swap/fast">
+				<Option output="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/swap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 swap/fast"/>
 					<CompileFile command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -121,9 +163,193 @@
 					<DistClean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="cinout">
+				<Option output="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/cinout" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 cinout"/>
+					<CompileFile command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cinout/fast">
+				<Option output="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/cinout" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 cinout/fast"/>
+					<CompileFile command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ep2_3">
+				<Option output="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/ep2_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 ep2_3"/>
+					<CompileFile command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ep2_3/fast">
+				<Option output="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/ep2_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 ep2_3/fast"/>
+					<CompileFile command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main2">
+				<Option output="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/main2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 main2"/>
+					<CompileFile command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main2/fast">
+				<Option output="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/main2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 main2/fast"/>
+					<CompileFile command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ep2_1">
+				<Option output="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/ep2_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 ep2_1"/>
+					<CompileFile command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ep2_1/fast">
+				<Option output="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/ep2_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 ep2_1/fast"/>
+					<CompileFile command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j12 -f &quot;/Users/shy/Library/Mobile\ Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 		</Build>
 		<Unit filename="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/1.cpp">
 			<Option target="main2"/>
+		</Unit>
+		<Unit filename="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/cin_out.cpp">
+			<Option target="main1"/>
+			<Option target="cinout"/>
+		</Unit>
+		<Unit filename="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep2_prac.cpp">
+			<Option target="ep2_1"/>
+		</Unit>
+		<Unit filename="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep2_prac_2.cpp">
+			<Option target="ep2_2"/>
+		</Unit>
+		<Unit filename="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep2_prac_3.cpp">
+			<Option target="ep2_3"/>
+		</Unit>
+		<Unit filename="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/swap_func.cpp">
+			<Option target="swap"/>
 		</Unit>
 		<Unit filename="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/main.cpp">
 			<Option target="main1"/>
