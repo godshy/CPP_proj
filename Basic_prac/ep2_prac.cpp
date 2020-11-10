@@ -1,5 +1,5 @@
 //finish the practice in the book C++ primer plus ep2
-//2.7-2
+//2.7-2 of cpp primer plus
 
 #include "iostream"
 

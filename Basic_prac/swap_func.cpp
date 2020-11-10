@@ -1,3 +1,5 @@
+//测试函数和指针
+
 #include "iostream"
 
 
@@ -16,9 +18,9 @@ int main ()
     int x; int y;
     cout << "pls input 2 number:\n";
     cin >> x  >> y;
-    cout << "be4 swaping x is : " << x << ", y is :" << y << endl;
+    cout << "be4 swapping x is : " << x << ", y is :" << y << endl;
     swap(&x, &y);
-    cout << "after swaping x is : " << x << ", y is :" << y;
+    cout << "after swapping x is : " << x << ", y is :" << y;
     return 0;
 }
 //
