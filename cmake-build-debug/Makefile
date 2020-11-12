@@ -131,6 +131,123 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named ep5_7
+
+# Build rule for target.
+ep5_7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep5_7
+.PHONY : ep5_7
+
+# fast build rule for target.
+ep5_7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_7.dir/build.make CMakeFiles/ep5_7.dir/build
+.PHONY : ep5_7/fast
+
+#=============================================================================
+# Target rules for targets named ep5_6
+
+# Build rule for target.
+ep5_6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep5_6
+.PHONY : ep5_6
+
+# fast build rule for target.
+ep5_6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_6.dir/build.make CMakeFiles/ep5_6.dir/build
+.PHONY : ep5_6/fast
+
+#=============================================================================
+# Target rules for targets named ep5_5
+
+# Build rule for target.
+ep5_5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep5_5
+.PHONY : ep5_5
+
+# fast build rule for target.
+ep5_5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_5.dir/build.make CMakeFiles/ep5_5.dir/build
+.PHONY : ep5_5/fast
+
+#=============================================================================
+# Target rules for targets named main2
+
+# Build rule for target.
+main2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 main2
+.PHONY : main2
+
+# fast build rule for target.
+main2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main2.dir/build.make CMakeFiles/main2.dir/build
+.PHONY : main2/fast
+
+#=============================================================================
+# Target rules for targets named ep5_3
+
+# Build rule for target.
+ep5_3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep5_3
+.PHONY : ep5_3
+
+# fast build rule for target.
+ep5_3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_3.dir/build.make CMakeFiles/ep5_3.dir/build
+.PHONY : ep5_3/fast
+
+#=============================================================================
+# Target rules for targets named ep5_2
+
+# Build rule for target.
+ep5_2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep5_2
+.PHONY : ep5_2
+
+# fast build rule for target.
+ep5_2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_2.dir/build.make CMakeFiles/ep5_2.dir/build
+.PHONY : ep5_2/fast
+
+#=============================================================================
+# Target rules for targets named ep3_3
+
+# Build rule for target.
+ep3_3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep3_3
+.PHONY : ep3_3
+
+# fast build rule for target.
+ep3_3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_3.dir/build.make CMakeFiles/ep3_3.dir/build
+.PHONY : ep3_3/fast
+
+#=============================================================================
+# Target rules for targets named 5.18
+
+# Build rule for target.
+5.18: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 5.18
+.PHONY : 5.18
+
+# fast build rule for target.
+5.18/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/5.18.dir/build.make CMakeFiles/5.18.dir/build
+.PHONY : 5.18/fast
+
+#=============================================================================
+# Target rules for targets named bondini
+
+# Build rule for target.
+bondini: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bondini
+.PHONY : bondini
+
+# fast build rule for target.
+bondini/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/bondini.dir/build.make CMakeFiles/bondini.dir/build
+.PHONY : bondini/fast
+
+#=============================================================================
 # Target rules for targets named ep4_6
 
 # Build rule for target.
@@ -144,6 +261,32 @@ ep4_6/fast:
 .PHONY : ep4_6/fast
 
 #=============================================================================
+# Target rules for targets named ep5_8
+
+# Build rule for target.
+ep5_8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep5_8
+.PHONY : ep5_8
+
+# fast build rule for target.
+ep5_8/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_8.dir/build.make CMakeFiles/ep5_8.dir/build
+.PHONY : ep5_8/fast
+
+#=============================================================================
+# Target rules for targets named ep5_1
+
+# Build rule for target.
+ep5_1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep5_1
+.PHONY : ep5_1
+
+# fast build rule for target.
+ep5_1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_1.dir/build.make CMakeFiles/ep5_1.dir/build
+.PHONY : ep5_1/fast
+
+#=============================================================================
 # Target rules for targets named ep4_4
 
 # Build rule for target.
@@ -155,6 +298,58 @@ ep4_4: cmake_check_build_system
 ep4_4/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_4.dir/build.make CMakeFiles/ep4_4.dir/build
 .PHONY : ep4_4/fast
+
+#=============================================================================
+# Target rules for targets named swap
+
+# Build rule for target.
+swap: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 swap
+.PHONY : swap
+
+# fast build rule for target.
+swap/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/swap.dir/build.make CMakeFiles/swap.dir/build
+.PHONY : swap/fast
+
+#=============================================================================
+# Target rules for targets named ep5_4
+
+# Build rule for target.
+ep5_4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep5_4
+.PHONY : ep5_4
+
+# fast build rule for target.
+ep5_4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_4.dir/build.make CMakeFiles/ep5_4.dir/build
+.PHONY : ep5_4/fast
+
+#=============================================================================
+# Target rules for targets named ep2_3
+
+# Build rule for target.
+ep2_3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep2_3
+.PHONY : ep2_3
+
+# fast build rule for target.
+ep2_3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_3.dir/build.make CMakeFiles/ep2_3.dir/build
+.PHONY : ep2_3/fast
+
+#=============================================================================
+# Target rules for targets named ep2_2
+
+# Build rule for target.
+ep2_2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep2_2
+.PHONY : ep2_2
+
+# fast build rule for target.
+ep2_2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_2.dir/build.make CMakeFiles/ep2_2.dir/build
+.PHONY : ep2_2/fast
 
 #=============================================================================
 # Target rules for targets named ep4_3
@@ -209,19 +404,6 @@ ep3_1/fast:
 .PHONY : ep3_1/fast
 
 #=============================================================================
-# Target rules for targets named ep3_3
-
-# Build rule for target.
-ep3_3: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep3_3
-.PHONY : ep3_3
-
-# fast build rule for target.
-ep3_3/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_3.dir/build.make CMakeFiles/ep3_3.dir/build
-.PHONY : ep3_3/fast
-
-#=============================================================================
 # Target rules for targets named divide
 
 # Build rule for target.
@@ -246,45 +428,6 @@ ep3_2: cmake_check_build_system
 ep3_2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_2.dir/build.make CMakeFiles/ep3_2.dir/build
 .PHONY : ep3_2/fast
-
-#=============================================================================
-# Target rules for targets named ep2_2
-
-# Build rule for target.
-ep2_2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep2_2
-.PHONY : ep2_2
-
-# fast build rule for target.
-ep2_2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_2.dir/build.make CMakeFiles/ep2_2.dir/build
-.PHONY : ep2_2/fast
-
-#=============================================================================
-# Target rules for targets named bondini
-
-# Build rule for target.
-bondini: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bondini
-.PHONY : bondini
-
-# fast build rule for target.
-bondini/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/bondini.dir/build.make CMakeFiles/bondini.dir/build
-.PHONY : bondini/fast
-
-#=============================================================================
-# Target rules for targets named swap
-
-# Build rule for target.
-swap: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 swap
-.PHONY : swap
-
-# fast build rule for target.
-swap/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/swap.dir/build.make CMakeFiles/swap.dir/build
-.PHONY : swap/fast
 
 #=============================================================================
 # Target rules for targets named main1
@@ -324,32 +467,6 @@ cinout: cmake_check_build_system
 cinout/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cinout.dir/build.make CMakeFiles/cinout.dir/build
 .PHONY : cinout/fast
-
-#=============================================================================
-# Target rules for targets named ep2_3
-
-# Build rule for target.
-ep2_3: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep2_3
-.PHONY : ep2_3
-
-# fast build rule for target.
-ep2_3/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_3.dir/build.make CMakeFiles/ep2_3.dir/build
-.PHONY : ep2_3/fast
-
-#=============================================================================
-# Target rules for targets named main2
-
-# Build rule for target.
-main2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 main2
-.PHONY : main2
-
-# fast build rule for target.
-main2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main2.dir/build.make CMakeFiles/main2.dir/build
-.PHONY : main2/fast
 
 #=============================================================================
 # Target rules for targets named ep2_1
@@ -799,6 +916,249 @@ Basic_prac/ep4_prac_6.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_6.dir/build.make CMakeFiles/ep4_6.dir/Basic_prac/ep4_prac_6.cpp.s
 .PHONY : Basic_prac/ep4_prac_6.cpp.s
 
+Basic_prac/ep5_5.18.o: Basic_prac/ep5_5.18.cpp.o
+
+.PHONY : Basic_prac/ep5_5.18.o
+
+# target to build an object file
+Basic_prac/ep5_5.18.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/5.18.dir/build.make CMakeFiles/5.18.dir/Basic_prac/ep5_5.18.cpp.o
+.PHONY : Basic_prac/ep5_5.18.cpp.o
+
+Basic_prac/ep5_5.18.i: Basic_prac/ep5_5.18.cpp.i
+
+.PHONY : Basic_prac/ep5_5.18.i
+
+# target to preprocess a source file
+Basic_prac/ep5_5.18.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/5.18.dir/build.make CMakeFiles/5.18.dir/Basic_prac/ep5_5.18.cpp.i
+.PHONY : Basic_prac/ep5_5.18.cpp.i
+
+Basic_prac/ep5_5.18.s: Basic_prac/ep5_5.18.cpp.s
+
+.PHONY : Basic_prac/ep5_5.18.s
+
+# target to generate assembly for a file
+Basic_prac/ep5_5.18.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/5.18.dir/build.make CMakeFiles/5.18.dir/Basic_prac/ep5_5.18.cpp.s
+.PHONY : Basic_prac/ep5_5.18.cpp.s
+
+Basic_prac/ep5_prac_1.o: Basic_prac/ep5_prac_1.cpp.o
+
+.PHONY : Basic_prac/ep5_prac_1.o
+
+# target to build an object file
+Basic_prac/ep5_prac_1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_1.dir/build.make CMakeFiles/ep5_1.dir/Basic_prac/ep5_prac_1.cpp.o
+.PHONY : Basic_prac/ep5_prac_1.cpp.o
+
+Basic_prac/ep5_prac_1.i: Basic_prac/ep5_prac_1.cpp.i
+
+.PHONY : Basic_prac/ep5_prac_1.i
+
+# target to preprocess a source file
+Basic_prac/ep5_prac_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_1.dir/build.make CMakeFiles/ep5_1.dir/Basic_prac/ep5_prac_1.cpp.i
+.PHONY : Basic_prac/ep5_prac_1.cpp.i
+
+Basic_prac/ep5_prac_1.s: Basic_prac/ep5_prac_1.cpp.s
+
+.PHONY : Basic_prac/ep5_prac_1.s
+
+# target to generate assembly for a file
+Basic_prac/ep5_prac_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_1.dir/build.make CMakeFiles/ep5_1.dir/Basic_prac/ep5_prac_1.cpp.s
+.PHONY : Basic_prac/ep5_prac_1.cpp.s
+
+Basic_prac/ep5_prac_2.o: Basic_prac/ep5_prac_2.cpp.o
+
+.PHONY : Basic_prac/ep5_prac_2.o
+
+# target to build an object file
+Basic_prac/ep5_prac_2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_2.dir/build.make CMakeFiles/ep5_2.dir/Basic_prac/ep5_prac_2.cpp.o
+.PHONY : Basic_prac/ep5_prac_2.cpp.o
+
+Basic_prac/ep5_prac_2.i: Basic_prac/ep5_prac_2.cpp.i
+
+.PHONY : Basic_prac/ep5_prac_2.i
+
+# target to preprocess a source file
+Basic_prac/ep5_prac_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_2.dir/build.make CMakeFiles/ep5_2.dir/Basic_prac/ep5_prac_2.cpp.i
+.PHONY : Basic_prac/ep5_prac_2.cpp.i
+
+Basic_prac/ep5_prac_2.s: Basic_prac/ep5_prac_2.cpp.s
+
+.PHONY : Basic_prac/ep5_prac_2.s
+
+# target to generate assembly for a file
+Basic_prac/ep5_prac_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_2.dir/build.make CMakeFiles/ep5_2.dir/Basic_prac/ep5_prac_2.cpp.s
+.PHONY : Basic_prac/ep5_prac_2.cpp.s
+
+Basic_prac/ep5_prac_3.o: Basic_prac/ep5_prac_3.cpp.o
+
+.PHONY : Basic_prac/ep5_prac_3.o
+
+# target to build an object file
+Basic_prac/ep5_prac_3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_3.dir/build.make CMakeFiles/ep5_3.dir/Basic_prac/ep5_prac_3.cpp.o
+.PHONY : Basic_prac/ep5_prac_3.cpp.o
+
+Basic_prac/ep5_prac_3.i: Basic_prac/ep5_prac_3.cpp.i
+
+.PHONY : Basic_prac/ep5_prac_3.i
+
+# target to preprocess a source file
+Basic_prac/ep5_prac_3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_3.dir/build.make CMakeFiles/ep5_3.dir/Basic_prac/ep5_prac_3.cpp.i
+.PHONY : Basic_prac/ep5_prac_3.cpp.i
+
+Basic_prac/ep5_prac_3.s: Basic_prac/ep5_prac_3.cpp.s
+
+.PHONY : Basic_prac/ep5_prac_3.s
+
+# target to generate assembly for a file
+Basic_prac/ep5_prac_3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_3.dir/build.make CMakeFiles/ep5_3.dir/Basic_prac/ep5_prac_3.cpp.s
+.PHONY : Basic_prac/ep5_prac_3.cpp.s
+
+Basic_prac/ep5_prac_4.o: Basic_prac/ep5_prac_4.cpp.o
+
+.PHONY : Basic_prac/ep5_prac_4.o
+
+# target to build an object file
+Basic_prac/ep5_prac_4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_4.dir/build.make CMakeFiles/ep5_4.dir/Basic_prac/ep5_prac_4.cpp.o
+.PHONY : Basic_prac/ep5_prac_4.cpp.o
+
+Basic_prac/ep5_prac_4.i: Basic_prac/ep5_prac_4.cpp.i
+
+.PHONY : Basic_prac/ep5_prac_4.i
+
+# target to preprocess a source file
+Basic_prac/ep5_prac_4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_4.dir/build.make CMakeFiles/ep5_4.dir/Basic_prac/ep5_prac_4.cpp.i
+.PHONY : Basic_prac/ep5_prac_4.cpp.i
+
+Basic_prac/ep5_prac_4.s: Basic_prac/ep5_prac_4.cpp.s
+
+.PHONY : Basic_prac/ep5_prac_4.s
+
+# target to generate assembly for a file
+Basic_prac/ep5_prac_4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_4.dir/build.make CMakeFiles/ep5_4.dir/Basic_prac/ep5_prac_4.cpp.s
+.PHONY : Basic_prac/ep5_prac_4.cpp.s
+
+Basic_prac/ep5_prac_5.o: Basic_prac/ep5_prac_5.cpp.o
+
+.PHONY : Basic_prac/ep5_prac_5.o
+
+# target to build an object file
+Basic_prac/ep5_prac_5.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_5.dir/build.make CMakeFiles/ep5_5.dir/Basic_prac/ep5_prac_5.cpp.o
+.PHONY : Basic_prac/ep5_prac_5.cpp.o
+
+Basic_prac/ep5_prac_5.i: Basic_prac/ep5_prac_5.cpp.i
+
+.PHONY : Basic_prac/ep5_prac_5.i
+
+# target to preprocess a source file
+Basic_prac/ep5_prac_5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_5.dir/build.make CMakeFiles/ep5_5.dir/Basic_prac/ep5_prac_5.cpp.i
+.PHONY : Basic_prac/ep5_prac_5.cpp.i
+
+Basic_prac/ep5_prac_5.s: Basic_prac/ep5_prac_5.cpp.s
+
+.PHONY : Basic_prac/ep5_prac_5.s
+
+# target to generate assembly for a file
+Basic_prac/ep5_prac_5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_5.dir/build.make CMakeFiles/ep5_5.dir/Basic_prac/ep5_prac_5.cpp.s
+.PHONY : Basic_prac/ep5_prac_5.cpp.s
+
+Basic_prac/ep5_prac_6.o: Basic_prac/ep5_prac_6.cpp.o
+
+.PHONY : Basic_prac/ep5_prac_6.o
+
+# target to build an object file
+Basic_prac/ep5_prac_6.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_6.dir/build.make CMakeFiles/ep5_6.dir/Basic_prac/ep5_prac_6.cpp.o
+.PHONY : Basic_prac/ep5_prac_6.cpp.o
+
+Basic_prac/ep5_prac_6.i: Basic_prac/ep5_prac_6.cpp.i
+
+.PHONY : Basic_prac/ep5_prac_6.i
+
+# target to preprocess a source file
+Basic_prac/ep5_prac_6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_6.dir/build.make CMakeFiles/ep5_6.dir/Basic_prac/ep5_prac_6.cpp.i
+.PHONY : Basic_prac/ep5_prac_6.cpp.i
+
+Basic_prac/ep5_prac_6.s: Basic_prac/ep5_prac_6.cpp.s
+
+.PHONY : Basic_prac/ep5_prac_6.s
+
+# target to generate assembly for a file
+Basic_prac/ep5_prac_6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_6.dir/build.make CMakeFiles/ep5_6.dir/Basic_prac/ep5_prac_6.cpp.s
+.PHONY : Basic_prac/ep5_prac_6.cpp.s
+
+Basic_prac/ep5_prac_7.o: Basic_prac/ep5_prac_7.cpp.o
+
+.PHONY : Basic_prac/ep5_prac_7.o
+
+# target to build an object file
+Basic_prac/ep5_prac_7.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_7.dir/build.make CMakeFiles/ep5_7.dir/Basic_prac/ep5_prac_7.cpp.o
+.PHONY : Basic_prac/ep5_prac_7.cpp.o
+
+Basic_prac/ep5_prac_7.i: Basic_prac/ep5_prac_7.cpp.i
+
+.PHONY : Basic_prac/ep5_prac_7.i
+
+# target to preprocess a source file
+Basic_prac/ep5_prac_7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_7.dir/build.make CMakeFiles/ep5_7.dir/Basic_prac/ep5_prac_7.cpp.i
+.PHONY : Basic_prac/ep5_prac_7.cpp.i
+
+Basic_prac/ep5_prac_7.s: Basic_prac/ep5_prac_7.cpp.s
+
+.PHONY : Basic_prac/ep5_prac_7.s
+
+# target to generate assembly for a file
+Basic_prac/ep5_prac_7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_7.dir/build.make CMakeFiles/ep5_7.dir/Basic_prac/ep5_prac_7.cpp.s
+.PHONY : Basic_prac/ep5_prac_7.cpp.s
+
+Basic_prac/ep5_prac_8.o: Basic_prac/ep5_prac_8.cpp.o
+
+.PHONY : Basic_prac/ep5_prac_8.o
+
+# target to build an object file
+Basic_prac/ep5_prac_8.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_8.dir/build.make CMakeFiles/ep5_8.dir/Basic_prac/ep5_prac_8.cpp.o
+.PHONY : Basic_prac/ep5_prac_8.cpp.o
+
+Basic_prac/ep5_prac_8.i: Basic_prac/ep5_prac_8.cpp.i
+
+.PHONY : Basic_prac/ep5_prac_8.i
+
+# target to preprocess a source file
+Basic_prac/ep5_prac_8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_8.dir/build.make CMakeFiles/ep5_8.dir/Basic_prac/ep5_prac_8.cpp.i
+.PHONY : Basic_prac/ep5_prac_8.cpp.i
+
+Basic_prac/ep5_prac_8.s: Basic_prac/ep5_prac_8.cpp.s
+
+.PHONY : Basic_prac/ep5_prac_8.s
+
+# target to generate assembly for a file
+Basic_prac/ep5_prac_8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_8.dir/build.make CMakeFiles/ep5_8.dir/Basic_prac/ep5_prac_8.cpp.s
+.PHONY : Basic_prac/ep5_prac_8.cpp.s
+
 Basic_prac/swap_func.o: Basic_prac/swap_func.cpp.o
 
 .PHONY : Basic_prac/swap_func.o
@@ -861,6 +1221,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... 5.18"
 	@echo "... bondini"
 	@echo "... cinout"
 	@echo "... divide"
@@ -876,6 +1237,14 @@ help:
 	@echo "... ep4_4"
 	@echo "... ep4_5"
 	@echo "... ep4_6"
+	@echo "... ep5_1"
+	@echo "... ep5_2"
+	@echo "... ep5_3"
+	@echo "... ep5_4"
+	@echo "... ep5_5"
+	@echo "... ep5_6"
+	@echo "... ep5_7"
+	@echo "... ep5_8"
 	@echo "... main1"
 	@echo "... main2"
 	@echo "... swap"
@@ -927,6 +1296,33 @@ help:
 	@echo "... Basic_prac/ep4_prac_6.o"
 	@echo "... Basic_prac/ep4_prac_6.i"
 	@echo "... Basic_prac/ep4_prac_6.s"
+	@echo "... Basic_prac/ep5_5.18.o"
+	@echo "... Basic_prac/ep5_5.18.i"
+	@echo "... Basic_prac/ep5_5.18.s"
+	@echo "... Basic_prac/ep5_prac_1.o"
+	@echo "... Basic_prac/ep5_prac_1.i"
+	@echo "... Basic_prac/ep5_prac_1.s"
+	@echo "... Basic_prac/ep5_prac_2.o"
+	@echo "... Basic_prac/ep5_prac_2.i"
+	@echo "... Basic_prac/ep5_prac_2.s"
+	@echo "... Basic_prac/ep5_prac_3.o"
+	@echo "... Basic_prac/ep5_prac_3.i"
+	@echo "... Basic_prac/ep5_prac_3.s"
+	@echo "... Basic_prac/ep5_prac_4.o"
+	@echo "... Basic_prac/ep5_prac_4.i"
+	@echo "... Basic_prac/ep5_prac_4.s"
+	@echo "... Basic_prac/ep5_prac_5.o"
+	@echo "... Basic_prac/ep5_prac_5.i"
+	@echo "... Basic_prac/ep5_prac_5.s"
+	@echo "... Basic_prac/ep5_prac_6.o"
+	@echo "... Basic_prac/ep5_prac_6.i"
+	@echo "... Basic_prac/ep5_prac_6.s"
+	@echo "... Basic_prac/ep5_prac_7.o"
+	@echo "... Basic_prac/ep5_prac_7.i"
+	@echo "... Basic_prac/ep5_prac_7.s"
+	@echo "... Basic_prac/ep5_prac_8.o"
+	@echo "... Basic_prac/ep5_prac_8.i"
+	@echo "... Basic_prac/ep5_prac_8.s"
 	@echo "... Basic_prac/swap_func.o"
 	@echo "... Basic_prac/swap_func.i"
 	@echo "... Basic_prac/swap_func.s"
