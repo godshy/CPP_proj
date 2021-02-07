@@ -2,8 +2,10 @@ cmake_minimum_required(VERSION 3.17)
 project(CPP_proj)
 
 set(CMAKE_CXX_STANDARD 14)
-
+add_compile_options("$<$<C_COMPILER_ID:MSVC>:/utf-8>")
+add_compile_options("$<$<CXX_COMPILER_ID:MSVC>:/utf-8>")
 add_executable(main1 main.cpp )
+add_executable(test03 Basic_prac/test03.cpp)
 add_executable(cinout Basic_prac/cin_out.cpp)
 add_executable(swap Basic_prac/swap_func.cpp)
 add_executable(ep2_1 Basic_prac/ep2_prac.cpp)

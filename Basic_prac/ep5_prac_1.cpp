@@ -5,7 +5,7 @@ int main()
 
 {
     using namespace std;
-    cout << "输入两个数： "<< endl;
+    cout << "input 2 numbers： "<< endl;
     int a, b;
     cin >> a >> b;
     int sum = 0;

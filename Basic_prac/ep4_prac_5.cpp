@@ -1,6 +1,6 @@
 //4.13-7, 8 of cpp primer plus
 #include "iostream"//
-
+#include "string"
 
 using namespace std;
 

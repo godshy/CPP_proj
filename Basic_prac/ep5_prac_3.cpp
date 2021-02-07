@@ -8,10 +8,10 @@ int main()
     double y = 0;
     while(i != 0)
     {
-        cout << "输入一个数：" << endl;
+        cout << "input a number：" << endl;
         cin >> i;
         y += i;
-        cout << "目前为止的和为: " << y <<endl;
+        cout << "sum so far: " << y <<endl;
 
     }
 

@@ -7,23 +7,23 @@ int main()
     char c;
     while(c != '@')
     {
-        cout << "请输入一个字符" << endl;
+        cout << "pls input a string" << endl;
         cin >> c;
         cin.get();
         if (!isalpha(c))
         {
-            cout << "你输入的不是字符！" << endl;
+            cout << "your didn't input a string！" << endl;
             cin.clear();
             continue;
         }
         else if (c <= 'Z' && c >= 'A')
         {
             c += 32;
-            cout << "输出： " << c << endl;
+            cout << "output： " << c << endl;
         } else
         {
             c -= 32;
-            cout << "输出： " << c << endl;
+            cout << "output： " << c << endl;
         }
 
     }

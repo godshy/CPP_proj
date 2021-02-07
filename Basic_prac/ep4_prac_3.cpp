@@ -1,6 +1,7 @@
 //4.13-3, 4 of cpp primer plus
 #include "iostream"//
 #include "cstring"
+#include "string"
 
 int concatenate_char()
 {

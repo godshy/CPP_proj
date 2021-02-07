@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Basic_prac",
+      "appliesTo": "Basic_prac/",
+      "type": "launch"
+    }
+  ]
+}

@@ -12,7 +12,7 @@ void vec_method()
     using namespace std;
     int x;
     long double res = 1;
-    cout << "输入一个值，计算其阶乘：" << endl;
+    cout << "input a number for calculating factorial：" << endl;
     cin >> x;
     vector<int> factorial;
     for (int i = 0; i <= x; i++)

@@ -1,5 +1,6 @@
 //4.13-2 of cpp primer plus
 #include "iostream"
+#include "string"
 
 int main ()
 {

@@ -25,13 +25,13 @@ void one_d_array()
    int c;
    for (int i = 0; i < 12; i++)
    {
-       cout <<  "请输入" << months[i] << "的销量" << endl;
+       cout <<  "pls input" << months[i] << "amounts sold" << endl;
        cin >> sell[i];
 
    }
    for ( int i = 0; i < 12; i ++)
    {
-       cout << months[i] << "销量" << "为" << sell[i] << endl;
+       cout << months[i] << "amounts sold" << "is" << sell[i] << endl;
    }
 
 }

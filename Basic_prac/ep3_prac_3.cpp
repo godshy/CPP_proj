@@ -4,17 +4,17 @@
 int main ()
 {
     using namespace std;
-    cout << "输入行驶里程：km" << endl;
+    cout << "enter the driving distance：km" << endl;
     double range;
     cin >> range;
-    cout << "输入油量（升）" << endl;
+    cout << "inter fuel quantity）" << endl;
     double gas;
     cin >> gas;
     double consume_of_100km = gas/range*100;
-    cout << "百公里蚝油" << consume_of_100km << "升" << endl;
+    cout << "consume each 100 kms" << consume_of_100km << "升" << endl;
 
     double consume_of_gas = range/gas;
-    cout << "1升油能跑" << consume_of_gas << "公里" << endl;
+    cout << "can do x km in 1L oil" << consume_of_gas << "公里" << endl;
 
 
 }

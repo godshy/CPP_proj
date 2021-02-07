@@ -9,7 +9,7 @@ int main()
     int i = 0;
     while(i < max)
     {
-        cout << "请输入一个数字" << endl;
+        cout << "input a number" << endl;
         if (!(cin >> a[i]))
         {
             break;

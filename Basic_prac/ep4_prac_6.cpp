@@ -6,11 +6,11 @@ int main()
 {
     using namespace std;
     array<double, 3> timing;
-    cout << "请输入第一次跑的成绩:" << endl;
+    cout << "running time 1st:" << endl;
     cin >> timing[0];
-    cout << "请输入第二次跑的成绩:" << endl;
+    cout << "running time 2nd:" << endl;
     cin >> timing[1];
-    cout << "请输入第三次跑的成绩:" << endl;
+    cout << "running time 3rd:" << endl;
     cin >> timing[2];
     double results = (timing[0] + timing[1] + timing[2])/3;
     cout << timing[0] << " " << timing[1] << " " << timing[2] << endl; cout << "结果为: " << results <<endl;
