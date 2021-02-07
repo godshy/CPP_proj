@@ -1,7 +1,7 @@
 //hello world program
 
 #include "iostream"
-#include "stdio.h"
+#include "cstdio"
 int main()
 {
     using namespace std;  // choose which namespace you want to use,

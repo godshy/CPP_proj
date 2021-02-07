@@ -10,7 +10,7 @@ int main()
     ofstream outFile;
     ifstream inFile;
     //outFile.open("ep6-8-file.txt");
-    inFile.open("/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep6-8-file.txt");
+    inFile.open("./ep6-8-file.txt");
     if (!inFile.is_open())
     {
         cout << "error" << endl;

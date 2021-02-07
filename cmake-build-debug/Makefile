@@ -196,32 +196,6 @@ ep5_6/fast:
 .PHONY : ep5_6/fast
 
 #=============================================================================
-# Target rules for targets named ep5_5
-
-# Build rule for target.
-ep5_5: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep5_5
-.PHONY : ep5_5
-
-# fast build rule for target.
-ep5_5/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_5.dir/build.make CMakeFiles/ep5_5.dir/build
-.PHONY : ep5_5/fast
-
-#=============================================================================
-# Target rules for targets named main2
-
-# Build rule for target.
-main2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 main2
-.PHONY : main2
-
-# fast build rule for target.
-main2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main2.dir/build.make CMakeFiles/main2.dir/build
-.PHONY : main2/fast
-
-#=============================================================================
 # Target rules for targets named ep5_3
 
 # Build rule for target.
@@ -233,6 +207,19 @@ ep5_3: cmake_check_build_system
 ep5_3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_3.dir/build.make CMakeFiles/ep5_3.dir/build
 .PHONY : ep5_3/fast
+
+#=============================================================================
+# Target rules for targets named 7.6
+
+# Build rule for target.
+7.6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 7.6
+.PHONY : 7.6
+
+# fast build rule for target.
+7.6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/7.6.dir/build.make CMakeFiles/7.6.dir/build
+.PHONY : 7.6/fast
 
 #=============================================================================
 # Target rules for targets named ep5_2
@@ -378,19 +365,6 @@ ep5_4/fast:
 .PHONY : ep5_4/fast
 
 #=============================================================================
-# Target rules for targets named ep2_3
-
-# Build rule for target.
-ep2_3: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep2_3
-.PHONY : ep2_3
-
-# fast build rule for target.
-ep2_3/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_3.dir/build.make CMakeFiles/ep2_3.dir/build
-.PHONY : ep2_3/fast
-
-#=============================================================================
 # Target rules for targets named ep2_2
 
 # Build rule for target.
@@ -402,6 +376,19 @@ ep2_2: cmake_check_build_system
 ep2_2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_2.dir/build.make CMakeFiles/ep2_2.dir/build
 .PHONY : ep2_2/fast
+
+#=============================================================================
+# Target rules for targets named ep2_3
+
+# Build rule for target.
+ep2_3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep2_3
+.PHONY : ep2_3
+
+# fast build rule for target.
+ep2_3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_3.dir/build.make CMakeFiles/ep2_3.dir/build
+.PHONY : ep2_3/fast
 
 #=============================================================================
 # Target rules for targets named ep4_3
@@ -521,6 +508,19 @@ main1/fast:
 .PHONY : main1/fast
 
 #=============================================================================
+# Target rules for targets named ep5_5
+
+# Build rule for target.
+ep5_5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep5_5
+.PHONY : ep5_5
+
+# fast build rule for target.
+ep5_5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_5.dir/build.make CMakeFiles/ep5_5.dir/build
+.PHONY : ep5_5/fast
+
+#=============================================================================
 # Target rules for targets named ep4_5
 
 # Build rule for target.
@@ -559,33 +559,6 @@ ep2_1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_1.dir/build.make CMakeFiles/ep2_1.dir/build
 .PHONY : ep2_1/fast
 
-Basic_prac/1.o: Basic_prac/1.cpp.o
-
-.PHONY : Basic_prac/1.o
-
-# target to build an object file
-Basic_prac/1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main2.dir/build.make CMakeFiles/main2.dir/Basic_prac/1.cpp.o
-.PHONY : Basic_prac/1.cpp.o
-
-Basic_prac/1.i: Basic_prac/1.cpp.i
-
-.PHONY : Basic_prac/1.i
-
-# target to preprocess a source file
-Basic_prac/1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main2.dir/build.make CMakeFiles/main2.dir/Basic_prac/1.cpp.i
-.PHONY : Basic_prac/1.cpp.i
-
-Basic_prac/1.s: Basic_prac/1.cpp.s
-
-.PHONY : Basic_prac/1.s
-
-# target to generate assembly for a file
-Basic_prac/1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main2.dir/build.make CMakeFiles/main2.dir/Basic_prac/1.cpp.s
-.PHONY : Basic_prac/1.cpp.s
-
 Basic_prac/bondini.o: Basic_prac/bondini.cpp.o
 
 .PHONY : Basic_prac/bondini.o
@@ -619,7 +592,6 @@ Basic_prac/cin_out.o: Basic_prac/cin_out.cpp.o
 
 # target to build an object file
 Basic_prac/cin_out.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/Basic_prac/cin_out.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cinout.dir/build.make CMakeFiles/cinout.dir/Basic_prac/cin_out.cpp.o
 .PHONY : Basic_prac/cin_out.cpp.o
 
@@ -629,7 +601,6 @@ Basic_prac/cin_out.i: Basic_prac/cin_out.cpp.i
 
 # target to preprocess a source file
 Basic_prac/cin_out.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/Basic_prac/cin_out.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cinout.dir/build.make CMakeFiles/cinout.dir/Basic_prac/cin_out.cpp.i
 .PHONY : Basic_prac/cin_out.cpp.i
 
@@ -639,7 +610,6 @@ Basic_prac/cin_out.s: Basic_prac/cin_out.cpp.s
 
 # target to generate assembly for a file
 Basic_prac/cin_out.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/Basic_prac/cin_out.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cinout.dir/build.make CMakeFiles/cinout.dir/Basic_prac/cin_out.cpp.s
 .PHONY : Basic_prac/cin_out.cpp.s
 
@@ -669,6 +639,33 @@ Basic_prac/divide.s: Basic_prac/divide.cpp.s
 Basic_prac/divide.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/divide.dir/build.make CMakeFiles/divide.dir/Basic_prac/divide.cpp.s
 .PHONY : Basic_prac/divide.cpp.s
+
+Basic_prac/ep-7-7.6.o: Basic_prac/ep-7-7.6.cpp.o
+
+.PHONY : Basic_prac/ep-7-7.6.o
+
+# target to build an object file
+Basic_prac/ep-7-7.6.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/7.6.dir/build.make CMakeFiles/7.6.dir/Basic_prac/ep-7-7.6.cpp.o
+.PHONY : Basic_prac/ep-7-7.6.cpp.o
+
+Basic_prac/ep-7-7.6.i: Basic_prac/ep-7-7.6.cpp.i
+
+.PHONY : Basic_prac/ep-7-7.6.i
+
+# target to preprocess a source file
+Basic_prac/ep-7-7.6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/7.6.dir/build.make CMakeFiles/7.6.dir/Basic_prac/ep-7-7.6.cpp.i
+.PHONY : Basic_prac/ep-7-7.6.cpp.i
+
+Basic_prac/ep-7-7.6.s: Basic_prac/ep-7-7.6.cpp.s
+
+.PHONY : Basic_prac/ep-7-7.6.s
+
+# target to generate assembly for a file
+Basic_prac/ep-7-7.6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/7.6.dir/build.make CMakeFiles/7.6.dir/Basic_prac/ep-7-7.6.cpp.s
+.PHONY : Basic_prac/ep-7-7.6.cpp.s
 
 Basic_prac/ep2_prac.o: Basic_prac/ep2_prac.cpp.o
 
@@ -1462,6 +1459,7 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... 5.18"
+	@echo "... 7.6"
 	@echo "... bondini"
 	@echo "... cinout"
 	@echo "... divide"
@@ -1492,11 +1490,7 @@ help:
 	@echo "... ep6_6"
 	@echo "... ep6_8"
 	@echo "... main1"
-	@echo "... main2"
 	@echo "... swap"
-	@echo "... Basic_prac/1.o"
-	@echo "... Basic_prac/1.i"
-	@echo "... Basic_prac/1.s"
 	@echo "... Basic_prac/bondini.o"
 	@echo "... Basic_prac/bondini.i"
 	@echo "... Basic_prac/bondini.s"
@@ -1506,6 +1500,9 @@ help:
 	@echo "... Basic_prac/divide.o"
 	@echo "... Basic_prac/divide.i"
 	@echo "... Basic_prac/divide.s"
+	@echo "... Basic_prac/ep-7-7.6.o"
+	@echo "... Basic_prac/ep-7-7.6.i"
+	@echo "... Basic_prac/ep-7-7.6.s"
 	@echo "... Basic_prac/ep2_prac.o"
 	@echo "... Basic_prac/ep2_prac.i"
 	@echo "... Basic_prac/ep2_prac.s"

@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/main1.dir/Basic_prac/cin_out.cpp.o"
   "CMakeFiles/main1.dir/main.cpp.o"
   "main1"
   "main1.pdb"
