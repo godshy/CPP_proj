@@ -5,6 +5,21 @@
       "taskLabel": "task-Basic_prac",
       "appliesTo": "Basic_prac/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-stdc++",
+      "appliesTo": "Basic_prac/bits/stdc++.h",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-CMakeLists",
+      "appliesTo": "CMakeLists.txt",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-CMakeLists",
+      "appliesTo": "CMakeLists.txt",
+      "type": "launch"
     }
   ]
 }

@@ -1,15 +1,16 @@
 ﻿{
   "configurations": [
     {
-      "name": "x64-Debug (default)",
-      "generator": "Ninja",
-      "configurationType": "Debug",
-      "inheritEnvironments": [ "clang_cl_x64_x64" ],
-      "buildRoot": "${projectDir}\\out\\build\\${name}",
-      "installRoot": "${projectDir}\\out\\install\\${name}",
-      "cmakeCommandArgs": "",
       "buildCommandArgs": "",
+      "buildRoot": "${projectDir}\\out\\build\\${name}",
+      "cmakeCommandArgs": "",
+      "configurationType": "Debug",
       "ctestCommandArgs": "",
+      "currentDir": "${workspaceRoot}/",
+      "generator": "Ninja",
+      "inheritEnvironments": [ "clang_cl_x64_x64" ],
+      "installRoot": "${projectDir}\\out\\install\\${name}",
+      "name": "x64-Debug (default)",
       "variables": []
     }
   ]
