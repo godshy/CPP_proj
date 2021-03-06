@@ -78,6 +78,7 @@ all: CMakeFiles/ep6_2.dir/all
 all: CMakeFiles/ep6_1.dir/all
 all: CMakeFiles/ep5_7.dir/all
 all: CMakeFiles/ep5_6.dir/all
+all: CMakeFiles/ep5_5.dir/all
 all: CMakeFiles/ep5_3.dir/all
 all: CMakeFiles/7.6.dir/all
 all: CMakeFiles/ep5_2.dir/all
@@ -89,23 +90,27 @@ all: CMakeFiles/ep4_6.dir/all
 all: CMakeFiles/ep5_8.dir/all
 all: CMakeFiles/ep5_1.dir/all
 all: CMakeFiles/ep4_4.dir/all
-all: CMakeFiles/swap.dir/all
-all: CMakeFiles/ep5_4.dir/all
-all: CMakeFiles/ep2_2.dir/all
 all: CMakeFiles/ep2_3.dir/all
+all: CMakeFiles/ep2_2.dir/all
 all: CMakeFiles/ep4_3.dir/all
 all: CMakeFiles/ep6_6.dir/all
 all: CMakeFiles/ep6_3.dir/all
+all: CMakeFiles/oop1.dir/all
 all: CMakeFiles/ep4_2.dir/all
-all: CMakeFiles/ep4_1.dir/all
-all: CMakeFiles/ep3_1.dir/all
-all: CMakeFiles/divide.dir/all
 all: CMakeFiles/ep3_2.dir/all
-all: CMakeFiles/main1.dir/all
-all: CMakeFiles/ep5_5.dir/all
+all: CMakeFiles/ep5_4.dir/all
+all: CMakeFiles/draft.dir/all
+all: CMakeFiles/swap.dir/all
+all: CMakeFiles/2dvector_p.dir/all
+all: CMakeFiles/ep3_1.dir/all
+all: CMakeFiles/cstringio_example.dir/all
+all: CMakeFiles/draft_2.dir/all
 all: CMakeFiles/ep4_5.dir/all
 all: CMakeFiles/cinout.dir/all
+all: CMakeFiles/main1.dir/all
 all: CMakeFiles/ep2_1.dir/all
+all: CMakeFiles/ep4_1.dir/all
+all: CMakeFiles/divide.dir/all
 
 .PHONY : all
 
@@ -120,6 +125,7 @@ clean: CMakeFiles/ep6_2.dir/clean
 clean: CMakeFiles/ep6_1.dir/clean
 clean: CMakeFiles/ep5_7.dir/clean
 clean: CMakeFiles/ep5_6.dir/clean
+clean: CMakeFiles/ep5_5.dir/clean
 clean: CMakeFiles/ep5_3.dir/clean
 clean: CMakeFiles/7.6.dir/clean
 clean: CMakeFiles/ep5_2.dir/clean
@@ -131,23 +137,27 @@ clean: CMakeFiles/ep4_6.dir/clean
 clean: CMakeFiles/ep5_8.dir/clean
 clean: CMakeFiles/ep5_1.dir/clean
 clean: CMakeFiles/ep4_4.dir/clean
-clean: CMakeFiles/swap.dir/clean
-clean: CMakeFiles/ep5_4.dir/clean
-clean: CMakeFiles/ep2_2.dir/clean
 clean: CMakeFiles/ep2_3.dir/clean
+clean: CMakeFiles/ep2_2.dir/clean
 clean: CMakeFiles/ep4_3.dir/clean
 clean: CMakeFiles/ep6_6.dir/clean
 clean: CMakeFiles/ep6_3.dir/clean
+clean: CMakeFiles/oop1.dir/clean
 clean: CMakeFiles/ep4_2.dir/clean
-clean: CMakeFiles/ep4_1.dir/clean
-clean: CMakeFiles/ep3_1.dir/clean
-clean: CMakeFiles/divide.dir/clean
 clean: CMakeFiles/ep3_2.dir/clean
-clean: CMakeFiles/main1.dir/clean
-clean: CMakeFiles/ep5_5.dir/clean
+clean: CMakeFiles/ep5_4.dir/clean
+clean: CMakeFiles/draft.dir/clean
+clean: CMakeFiles/swap.dir/clean
+clean: CMakeFiles/2dvector_p.dir/clean
+clean: CMakeFiles/ep3_1.dir/clean
+clean: CMakeFiles/cstringio_example.dir/clean
+clean: CMakeFiles/draft_2.dir/clean
 clean: CMakeFiles/ep4_5.dir/clean
 clean: CMakeFiles/cinout.dir/clean
+clean: CMakeFiles/main1.dir/clean
 clean: CMakeFiles/ep2_1.dir/clean
+clean: CMakeFiles/ep4_1.dir/clean
+clean: CMakeFiles/divide.dir/clean
 
 .PHONY : clean
 
@@ -158,7 +168,7 @@ clean: CMakeFiles/ep2_1.dir/clean
 CMakeFiles/ep6_8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep6_8.dir/build.make CMakeFiles/ep6_8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep6_8.dir/build.make CMakeFiles/ep6_8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=61,62 "Built target ep6_8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=69,70 "Built target ep6_8"
 .PHONY : CMakeFiles/ep6_8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -185,7 +195,7 @@ CMakeFiles/ep6_8.dir/clean:
 CMakeFiles/ep6_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep6_2.dir/build.make CMakeFiles/ep6_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep6_2.dir/build.make CMakeFiles/ep6_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=53,54 "Built target ep6_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=61,62 "Built target ep6_2"
 .PHONY : CMakeFiles/ep6_2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -212,7 +222,7 @@ CMakeFiles/ep6_2.dir/clean:
 CMakeFiles/ep6_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep6_1.dir/build.make CMakeFiles/ep6_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep6_1.dir/build.make CMakeFiles/ep6_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=51,52 "Built target ep6_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=59,60 "Built target ep6_1"
 .PHONY : CMakeFiles/ep6_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -239,7 +249,7 @@ CMakeFiles/ep6_1.dir/clean:
 CMakeFiles/ep5_7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_7.dir/build.make CMakeFiles/ep5_7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_7.dir/build.make CMakeFiles/ep5_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=47,48 "Built target ep5_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=55,56 "Built target ep5_7"
 .PHONY : CMakeFiles/ep5_7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -266,7 +276,7 @@ CMakeFiles/ep5_7.dir/clean:
 CMakeFiles/ep5_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_6.dir/build.make CMakeFiles/ep5_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_6.dir/build.make CMakeFiles/ep5_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=45,46 "Built target ep5_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=53,54 "Built target ep5_6"
 .PHONY : CMakeFiles/ep5_6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -287,13 +297,40 @@ CMakeFiles/ep5_6.dir/clean:
 .PHONY : CMakeFiles/ep5_6.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/ep5_5.dir
+
+# All Build rule for target.
+CMakeFiles/ep5_5.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_5.dir/build.make CMakeFiles/ep5_5.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_5.dir/build.make CMakeFiles/ep5_5.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=51,52 "Built target ep5_5"
+.PHONY : CMakeFiles/ep5_5.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ep5_5.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ep5_5.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
+.PHONY : CMakeFiles/ep5_5.dir/rule
+
+# Convenience name for target.
+ep5_5: CMakeFiles/ep5_5.dir/rule
+
+.PHONY : ep5_5
+
+# clean rule for target.
+CMakeFiles/ep5_5.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_5.dir/build.make CMakeFiles/ep5_5.dir/clean
+.PHONY : CMakeFiles/ep5_5.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/ep5_3.dir
 
 # All Build rule for target.
 CMakeFiles/ep5_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_3.dir/build.make CMakeFiles/ep5_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_3.dir/build.make CMakeFiles/ep5_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=39,40 "Built target ep5_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=47,48 "Built target ep5_3"
 .PHONY : CMakeFiles/ep5_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -320,7 +357,7 @@ CMakeFiles/ep5_3.dir/clean:
 CMakeFiles/7.6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/7.6.dir/build.make CMakeFiles/7.6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/7.6.dir/build.make CMakeFiles/7.6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=3,4 "Built target 7.6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=5,6 "Built target 7.6"
 .PHONY : CMakeFiles/7.6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -347,7 +384,7 @@ CMakeFiles/7.6.dir/clean:
 CMakeFiles/ep5_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_2.dir/build.make CMakeFiles/ep5_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_2.dir/build.make CMakeFiles/ep5_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=37,38 "Built target ep5_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=45,46 "Built target ep5_2"
 .PHONY : CMakeFiles/ep5_2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -374,7 +411,7 @@ CMakeFiles/ep5_2.dir/clean:
 CMakeFiles/ep3_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_3.dir/build.make CMakeFiles/ep3_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_3.dir/build.make CMakeFiles/ep3_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=21,22 "Built target ep3_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=29,30 "Built target ep3_3"
 .PHONY : CMakeFiles/ep3_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -401,7 +438,7 @@ CMakeFiles/ep3_3.dir/clean:
 CMakeFiles/5.18.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/5.18.dir/build.make CMakeFiles/5.18.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/5.18.dir/build.make CMakeFiles/5.18.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target 5.18"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=3,4 "Built target 5.18"
 .PHONY : CMakeFiles/5.18.dir/all
 
 # Build rule for subdir invocation for target.
@@ -428,7 +465,7 @@ CMakeFiles/5.18.dir/clean:
 CMakeFiles/ep6_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep6_5.dir/build.make CMakeFiles/ep6_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep6_5.dir/build.make CMakeFiles/ep6_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=57,58 "Built target ep6_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=65,66 "Built target ep6_5"
 .PHONY : CMakeFiles/ep6_5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -455,7 +492,7 @@ CMakeFiles/ep6_5.dir/clean:
 CMakeFiles/bondini.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/bondini.dir/build.make CMakeFiles/bondini.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/bondini.dir/build.make CMakeFiles/bondini.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=5,6 "Built target bondini"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=7,8 "Built target bondini"
 .PHONY : CMakeFiles/bondini.dir/all
 
 # Build rule for subdir invocation for target.
@@ -482,7 +519,7 @@ CMakeFiles/bondini.dir/clean:
 CMakeFiles/ep4_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_6.dir/build.make CMakeFiles/ep4_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_6.dir/build.make CMakeFiles/ep4_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=33,34 "Built target ep4_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=41,42 "Built target ep4_6"
 .PHONY : CMakeFiles/ep4_6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -509,7 +546,7 @@ CMakeFiles/ep4_6.dir/clean:
 CMakeFiles/ep5_8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_8.dir/build.make CMakeFiles/ep5_8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_8.dir/build.make CMakeFiles/ep5_8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=49,50 "Built target ep5_8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=57,58 "Built target ep5_8"
 .PHONY : CMakeFiles/ep5_8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -536,7 +573,7 @@ CMakeFiles/ep5_8.dir/clean:
 CMakeFiles/ep5_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_1.dir/build.make CMakeFiles/ep5_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_1.dir/build.make CMakeFiles/ep5_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=35,36 "Built target ep5_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=43,44 "Built target ep5_1"
 .PHONY : CMakeFiles/ep5_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -563,7 +600,7 @@ CMakeFiles/ep5_1.dir/clean:
 CMakeFiles/ep4_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_4.dir/build.make CMakeFiles/ep4_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_4.dir/build.make CMakeFiles/ep4_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=29,30 "Built target ep4_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=37,38 "Built target ep4_4"
 .PHONY : CMakeFiles/ep4_4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -584,94 +621,13 @@ CMakeFiles/ep4_4.dir/clean:
 .PHONY : CMakeFiles/ep4_4.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/swap.dir
-
-# All Build rule for target.
-CMakeFiles/swap.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/swap.dir/build.make CMakeFiles/swap.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/swap.dir/build.make CMakeFiles/swap.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=65,66 "Built target swap"
-.PHONY : CMakeFiles/swap.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/swap.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/swap.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
-.PHONY : CMakeFiles/swap.dir/rule
-
-# Convenience name for target.
-swap: CMakeFiles/swap.dir/rule
-
-.PHONY : swap
-
-# clean rule for target.
-CMakeFiles/swap.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/swap.dir/build.make CMakeFiles/swap.dir/clean
-.PHONY : CMakeFiles/swap.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/ep5_4.dir
-
-# All Build rule for target.
-CMakeFiles/ep5_4.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_4.dir/build.make CMakeFiles/ep5_4.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_4.dir/build.make CMakeFiles/ep5_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=41,42 "Built target ep5_4"
-.PHONY : CMakeFiles/ep5_4.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/ep5_4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ep5_4.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
-.PHONY : CMakeFiles/ep5_4.dir/rule
-
-# Convenience name for target.
-ep5_4: CMakeFiles/ep5_4.dir/rule
-
-.PHONY : ep5_4
-
-# clean rule for target.
-CMakeFiles/ep5_4.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_4.dir/build.make CMakeFiles/ep5_4.dir/clean
-.PHONY : CMakeFiles/ep5_4.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/ep2_2.dir
-
-# All Build rule for target.
-CMakeFiles/ep2_2.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_2.dir/build.make CMakeFiles/ep2_2.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_2.dir/build.make CMakeFiles/ep2_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=13,14 "Built target ep2_2"
-.PHONY : CMakeFiles/ep2_2.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/ep2_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ep2_2.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
-.PHONY : CMakeFiles/ep2_2.dir/rule
-
-# Convenience name for target.
-ep2_2: CMakeFiles/ep2_2.dir/rule
-
-.PHONY : ep2_2
-
-# clean rule for target.
-CMakeFiles/ep2_2.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_2.dir/build.make CMakeFiles/ep2_2.dir/clean
-.PHONY : CMakeFiles/ep2_2.dir/clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/ep2_3.dir
 
 # All Build rule for target.
 CMakeFiles/ep2_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_3.dir/build.make CMakeFiles/ep2_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_3.dir/build.make CMakeFiles/ep2_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=15,16 "Built target ep2_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=23,24 "Built target ep2_3"
 .PHONY : CMakeFiles/ep2_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -692,13 +648,40 @@ CMakeFiles/ep2_3.dir/clean:
 .PHONY : CMakeFiles/ep2_3.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/ep2_2.dir
+
+# All Build rule for target.
+CMakeFiles/ep2_2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_2.dir/build.make CMakeFiles/ep2_2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_2.dir/build.make CMakeFiles/ep2_2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=21,22 "Built target ep2_2"
+.PHONY : CMakeFiles/ep2_2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ep2_2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ep2_2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
+.PHONY : CMakeFiles/ep2_2.dir/rule
+
+# Convenience name for target.
+ep2_2: CMakeFiles/ep2_2.dir/rule
+
+.PHONY : ep2_2
+
+# clean rule for target.
+CMakeFiles/ep2_2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_2.dir/build.make CMakeFiles/ep2_2.dir/clean
+.PHONY : CMakeFiles/ep2_2.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/ep4_3.dir
 
 # All Build rule for target.
 CMakeFiles/ep4_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_3.dir/build.make CMakeFiles/ep4_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_3.dir/build.make CMakeFiles/ep4_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=27,28 "Built target ep4_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=35,36 "Built target ep4_3"
 .PHONY : CMakeFiles/ep4_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -725,7 +708,7 @@ CMakeFiles/ep4_3.dir/clean:
 CMakeFiles/ep6_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep6_6.dir/build.make CMakeFiles/ep6_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep6_6.dir/build.make CMakeFiles/ep6_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=59,60 "Built target ep6_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=67,68 "Built target ep6_6"
 .PHONY : CMakeFiles/ep6_6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -752,7 +735,7 @@ CMakeFiles/ep6_6.dir/clean:
 CMakeFiles/ep6_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep6_3.dir/build.make CMakeFiles/ep6_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep6_3.dir/build.make CMakeFiles/ep6_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=55,56 "Built target ep6_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=63,64 "Built target ep6_3"
 .PHONY : CMakeFiles/ep6_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -773,13 +756,40 @@ CMakeFiles/ep6_3.dir/clean:
 .PHONY : CMakeFiles/ep6_3.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/oop1.dir
+
+# All Build rule for target.
+CMakeFiles/oop1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop1.dir/build.make CMakeFiles/oop1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop1.dir/build.make CMakeFiles/oop1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=73,74 "Built target oop1"
+.PHONY : CMakeFiles/oop1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/oop1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/oop1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
+.PHONY : CMakeFiles/oop1.dir/rule
+
+# Convenience name for target.
+oop1: CMakeFiles/oop1.dir/rule
+
+.PHONY : oop1
+
+# clean rule for target.
+CMakeFiles/oop1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop1.dir/build.make CMakeFiles/oop1.dir/clean
+.PHONY : CMakeFiles/oop1.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/ep4_2.dir
 
 # All Build rule for target.
 CMakeFiles/ep4_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_2.dir/build.make CMakeFiles/ep4_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_2.dir/build.make CMakeFiles/ep4_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=25,26 "Built target ep4_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=33,34 "Built target ep4_2"
 .PHONY : CMakeFiles/ep4_2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -800,94 +810,13 @@ CMakeFiles/ep4_2.dir/clean:
 .PHONY : CMakeFiles/ep4_2.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/ep4_1.dir
-
-# All Build rule for target.
-CMakeFiles/ep4_1.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_1.dir/build.make CMakeFiles/ep4_1.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_1.dir/build.make CMakeFiles/ep4_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=23,24 "Built target ep4_1"
-.PHONY : CMakeFiles/ep4_1.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/ep4_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ep4_1.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
-.PHONY : CMakeFiles/ep4_1.dir/rule
-
-# Convenience name for target.
-ep4_1: CMakeFiles/ep4_1.dir/rule
-
-.PHONY : ep4_1
-
-# clean rule for target.
-CMakeFiles/ep4_1.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_1.dir/build.make CMakeFiles/ep4_1.dir/clean
-.PHONY : CMakeFiles/ep4_1.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/ep3_1.dir
-
-# All Build rule for target.
-CMakeFiles/ep3_1.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_1.dir/build.make CMakeFiles/ep3_1.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_1.dir/build.make CMakeFiles/ep3_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=17,18 "Built target ep3_1"
-.PHONY : CMakeFiles/ep3_1.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/ep3_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ep3_1.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
-.PHONY : CMakeFiles/ep3_1.dir/rule
-
-# Convenience name for target.
-ep3_1: CMakeFiles/ep3_1.dir/rule
-
-.PHONY : ep3_1
-
-# clean rule for target.
-CMakeFiles/ep3_1.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_1.dir/build.make CMakeFiles/ep3_1.dir/clean
-.PHONY : CMakeFiles/ep3_1.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/divide.dir
-
-# All Build rule for target.
-CMakeFiles/divide.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/divide.dir/build.make CMakeFiles/divide.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/divide.dir/build.make CMakeFiles/divide.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=9,10 "Built target divide"
-.PHONY : CMakeFiles/divide.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/divide.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/divide.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
-.PHONY : CMakeFiles/divide.dir/rule
-
-# Convenience name for target.
-divide: CMakeFiles/divide.dir/rule
-
-.PHONY : divide
-
-# clean rule for target.
-CMakeFiles/divide.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/divide.dir/build.make CMakeFiles/divide.dir/clean
-.PHONY : CMakeFiles/divide.dir/clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/ep3_2.dir
 
 # All Build rule for target.
 CMakeFiles/ep3_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_2.dir/build.make CMakeFiles/ep3_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_2.dir/build.make CMakeFiles/ep3_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=19,20 "Built target ep3_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=27,28 "Built target ep3_2"
 .PHONY : CMakeFiles/ep3_2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -908,58 +837,193 @@ CMakeFiles/ep3_2.dir/clean:
 .PHONY : CMakeFiles/ep3_2.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/main1.dir
+# Target rules for target CMakeFiles/ep5_4.dir
 
 # All Build rule for target.
-CMakeFiles/main1.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=63,64 "Built target main1"
-.PHONY : CMakeFiles/main1.dir/all
+CMakeFiles/ep5_4.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_4.dir/build.make CMakeFiles/ep5_4.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_4.dir/build.make CMakeFiles/ep5_4.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=49,50 "Built target ep5_4"
+.PHONY : CMakeFiles/ep5_4.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/main1.dir/rule: cmake_check_build_system
+CMakeFiles/ep5_4.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/main1.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ep5_4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
-.PHONY : CMakeFiles/main1.dir/rule
+.PHONY : CMakeFiles/ep5_4.dir/rule
 
 # Convenience name for target.
-main1: CMakeFiles/main1.dir/rule
+ep5_4: CMakeFiles/ep5_4.dir/rule
 
-.PHONY : main1
+.PHONY : ep5_4
 
 # clean rule for target.
-CMakeFiles/main1.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/clean
-.PHONY : CMakeFiles/main1.dir/clean
+CMakeFiles/ep5_4.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_4.dir/build.make CMakeFiles/ep5_4.dir/clean
+.PHONY : CMakeFiles/ep5_4.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/ep5_5.dir
+# Target rules for target CMakeFiles/draft.dir
 
 # All Build rule for target.
-CMakeFiles/ep5_5.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_5.dir/build.make CMakeFiles/ep5_5.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_5.dir/build.make CMakeFiles/ep5_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=43,44 "Built target ep5_5"
-.PHONY : CMakeFiles/ep5_5.dir/all
+CMakeFiles/draft.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/draft.dir/build.make CMakeFiles/draft.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/draft.dir/build.make CMakeFiles/draft.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=15,16 "Built target draft"
+.PHONY : CMakeFiles/draft.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/ep5_5.dir/rule: cmake_check_build_system
+CMakeFiles/draft.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ep5_5.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/draft.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
-.PHONY : CMakeFiles/ep5_5.dir/rule
+.PHONY : CMakeFiles/draft.dir/rule
 
 # Convenience name for target.
-ep5_5: CMakeFiles/ep5_5.dir/rule
+draft: CMakeFiles/draft.dir/rule
 
-.PHONY : ep5_5
+.PHONY : draft
 
 # clean rule for target.
-CMakeFiles/ep5_5.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_5.dir/build.make CMakeFiles/ep5_5.dir/clean
-.PHONY : CMakeFiles/ep5_5.dir/clean
+CMakeFiles/draft.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/draft.dir/build.make CMakeFiles/draft.dir/clean
+.PHONY : CMakeFiles/draft.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/swap.dir
+
+# All Build rule for target.
+CMakeFiles/swap.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/swap.dir/build.make CMakeFiles/swap.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/swap.dir/build.make CMakeFiles/swap.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=75,76 "Built target swap"
+.PHONY : CMakeFiles/swap.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/swap.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/swap.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
+.PHONY : CMakeFiles/swap.dir/rule
+
+# Convenience name for target.
+swap: CMakeFiles/swap.dir/rule
+
+.PHONY : swap
+
+# clean rule for target.
+CMakeFiles/swap.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/swap.dir/build.make CMakeFiles/swap.dir/clean
+.PHONY : CMakeFiles/swap.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/2dvector_p.dir
+
+# All Build rule for target.
+CMakeFiles/2dvector_p.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2dvector_p.dir/build.make CMakeFiles/2dvector_p.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2dvector_p.dir/build.make CMakeFiles/2dvector_p.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target 2dvector_p"
+.PHONY : CMakeFiles/2dvector_p.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/2dvector_p.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/2dvector_p.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
+.PHONY : CMakeFiles/2dvector_p.dir/rule
+
+# Convenience name for target.
+2dvector_p: CMakeFiles/2dvector_p.dir/rule
+
+.PHONY : 2dvector_p
+
+# clean rule for target.
+CMakeFiles/2dvector_p.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2dvector_p.dir/build.make CMakeFiles/2dvector_p.dir/clean
+.PHONY : CMakeFiles/2dvector_p.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ep3_1.dir
+
+# All Build rule for target.
+CMakeFiles/ep3_1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_1.dir/build.make CMakeFiles/ep3_1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_1.dir/build.make CMakeFiles/ep3_1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=25,26 "Built target ep3_1"
+.PHONY : CMakeFiles/ep3_1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ep3_1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ep3_1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
+.PHONY : CMakeFiles/ep3_1.dir/rule
+
+# Convenience name for target.
+ep3_1: CMakeFiles/ep3_1.dir/rule
+
+.PHONY : ep3_1
+
+# clean rule for target.
+CMakeFiles/ep3_1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_1.dir/build.make CMakeFiles/ep3_1.dir/clean
+.PHONY : CMakeFiles/ep3_1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/cstringio_example.dir
+
+# All Build rule for target.
+CMakeFiles/cstringio_example.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cstringio_example.dir/build.make CMakeFiles/cstringio_example.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cstringio_example.dir/build.make CMakeFiles/cstringio_example.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=11,12 "Built target cstringio_example"
+.PHONY : CMakeFiles/cstringio_example.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/cstringio_example.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/cstringio_example.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
+.PHONY : CMakeFiles/cstringio_example.dir/rule
+
+# Convenience name for target.
+cstringio_example: CMakeFiles/cstringio_example.dir/rule
+
+.PHONY : cstringio_example
+
+# clean rule for target.
+CMakeFiles/cstringio_example.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cstringio_example.dir/build.make CMakeFiles/cstringio_example.dir/clean
+.PHONY : CMakeFiles/cstringio_example.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/draft_2.dir
+
+# All Build rule for target.
+CMakeFiles/draft_2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/draft_2.dir/build.make CMakeFiles/draft_2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/draft_2.dir/build.make CMakeFiles/draft_2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=17,18 "Built target draft_2"
+.PHONY : CMakeFiles/draft_2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/draft_2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/draft_2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
+.PHONY : CMakeFiles/draft_2.dir/rule
+
+# Convenience name for target.
+draft_2: CMakeFiles/draft_2.dir/rule
+
+.PHONY : draft_2
+
+# clean rule for target.
+CMakeFiles/draft_2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/draft_2.dir/build.make CMakeFiles/draft_2.dir/clean
+.PHONY : CMakeFiles/draft_2.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/ep4_5.dir
@@ -968,7 +1032,7 @@ CMakeFiles/ep5_5.dir/clean:
 CMakeFiles/ep4_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_5.dir/build.make CMakeFiles/ep4_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_5.dir/build.make CMakeFiles/ep4_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=31,32 "Built target ep4_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=39,40 "Built target ep4_5"
 .PHONY : CMakeFiles/ep4_5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -995,7 +1059,7 @@ CMakeFiles/ep4_5.dir/clean:
 CMakeFiles/cinout.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cinout.dir/build.make CMakeFiles/cinout.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cinout.dir/build.make CMakeFiles/cinout.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=7,8 "Built target cinout"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=9,10 "Built target cinout"
 .PHONY : CMakeFiles/cinout.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1016,13 +1080,40 @@ CMakeFiles/cinout.dir/clean:
 .PHONY : CMakeFiles/cinout.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/main1.dir
+
+# All Build rule for target.
+CMakeFiles/main1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=71,72 "Built target main1"
+.PHONY : CMakeFiles/main1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/main1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/main1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
+.PHONY : CMakeFiles/main1.dir/rule
+
+# Convenience name for target.
+main1: CMakeFiles/main1.dir/rule
+
+.PHONY : main1
+
+# clean rule for target.
+CMakeFiles/main1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/clean
+.PHONY : CMakeFiles/main1.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/ep2_1.dir
 
 # All Build rule for target.
 CMakeFiles/ep2_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_1.dir/build.make CMakeFiles/ep2_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_1.dir/build.make CMakeFiles/ep2_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=11,12 "Built target ep2_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=19,20 "Built target ep2_1"
 .PHONY : CMakeFiles/ep2_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1041,6 +1132,60 @@ ep2_1: CMakeFiles/ep2_1.dir/rule
 CMakeFiles/ep2_1.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_1.dir/build.make CMakeFiles/ep2_1.dir/clean
 .PHONY : CMakeFiles/ep2_1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ep4_1.dir
+
+# All Build rule for target.
+CMakeFiles/ep4_1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_1.dir/build.make CMakeFiles/ep4_1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_1.dir/build.make CMakeFiles/ep4_1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=31,32 "Built target ep4_1"
+.PHONY : CMakeFiles/ep4_1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ep4_1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ep4_1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
+.PHONY : CMakeFiles/ep4_1.dir/rule
+
+# Convenience name for target.
+ep4_1: CMakeFiles/ep4_1.dir/rule
+
+.PHONY : ep4_1
+
+# clean rule for target.
+CMakeFiles/ep4_1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_1.dir/build.make CMakeFiles/ep4_1.dir/clean
+.PHONY : CMakeFiles/ep4_1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/divide.dir
+
+# All Build rule for target.
+CMakeFiles/divide.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/divide.dir/build.make CMakeFiles/divide.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/divide.dir/build.make CMakeFiles/divide.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" --progress-num=13,14 "Built target divide"
+.PHONY : CMakeFiles/divide.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/divide.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/divide.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/cmake-build-debug/CMakeFiles" 0
+.PHONY : CMakeFiles/divide.dir/rule
+
+# Convenience name for target.
+divide: CMakeFiles/divide.dir/rule
+
+.PHONY : divide
+
+# clean rule for target.
+CMakeFiles/divide.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/divide.dir/build.make CMakeFiles/divide.dir/clean
+.PHONY : CMakeFiles/divide.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

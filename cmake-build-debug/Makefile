@@ -196,6 +196,19 @@ ep5_6/fast:
 .PHONY : ep5_6/fast
 
 #=============================================================================
+# Target rules for targets named ep5_5
+
+# Build rule for target.
+ep5_5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep5_5
+.PHONY : ep5_5
+
+# fast build rule for target.
+ep5_5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_5.dir/build.make CMakeFiles/ep5_5.dir/build
+.PHONY : ep5_5/fast
+
+#=============================================================================
 # Target rules for targets named ep5_3
 
 # Build rule for target.
@@ -339,30 +352,17 @@ ep4_4/fast:
 .PHONY : ep4_4/fast
 
 #=============================================================================
-# Target rules for targets named swap
+# Target rules for targets named ep2_3
 
 # Build rule for target.
-swap: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 swap
-.PHONY : swap
+ep2_3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep2_3
+.PHONY : ep2_3
 
 # fast build rule for target.
-swap/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/swap.dir/build.make CMakeFiles/swap.dir/build
-.PHONY : swap/fast
-
-#=============================================================================
-# Target rules for targets named ep5_4
-
-# Build rule for target.
-ep5_4: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep5_4
-.PHONY : ep5_4
-
-# fast build rule for target.
-ep5_4/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_4.dir/build.make CMakeFiles/ep5_4.dir/build
-.PHONY : ep5_4/fast
+ep2_3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_3.dir/build.make CMakeFiles/ep2_3.dir/build
+.PHONY : ep2_3/fast
 
 #=============================================================================
 # Target rules for targets named ep2_2
@@ -376,19 +376,6 @@ ep2_2: cmake_check_build_system
 ep2_2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_2.dir/build.make CMakeFiles/ep2_2.dir/build
 .PHONY : ep2_2/fast
-
-#=============================================================================
-# Target rules for targets named ep2_3
-
-# Build rule for target.
-ep2_3: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep2_3
-.PHONY : ep2_3
-
-# fast build rule for target.
-ep2_3/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_3.dir/build.make CMakeFiles/ep2_3.dir/build
-.PHONY : ep2_3/fast
 
 #=============================================================================
 # Target rules for targets named ep4_3
@@ -430,6 +417,19 @@ ep6_3/fast:
 .PHONY : ep6_3/fast
 
 #=============================================================================
+# Target rules for targets named oop1
+
+# Build rule for target.
+oop1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 oop1
+.PHONY : oop1
+
+# fast build rule for target.
+oop1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop1.dir/build.make CMakeFiles/oop1.dir/build
+.PHONY : oop1/fast
+
+#=============================================================================
 # Target rules for targets named ep4_2
 
 # Build rule for target.
@@ -441,45 +441,6 @@ ep4_2: cmake_check_build_system
 ep4_2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_2.dir/build.make CMakeFiles/ep4_2.dir/build
 .PHONY : ep4_2/fast
-
-#=============================================================================
-# Target rules for targets named ep4_1
-
-# Build rule for target.
-ep4_1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep4_1
-.PHONY : ep4_1
-
-# fast build rule for target.
-ep4_1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_1.dir/build.make CMakeFiles/ep4_1.dir/build
-.PHONY : ep4_1/fast
-
-#=============================================================================
-# Target rules for targets named ep3_1
-
-# Build rule for target.
-ep3_1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep3_1
-.PHONY : ep3_1
-
-# fast build rule for target.
-ep3_1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_1.dir/build.make CMakeFiles/ep3_1.dir/build
-.PHONY : ep3_1/fast
-
-#=============================================================================
-# Target rules for targets named divide
-
-# Build rule for target.
-divide: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 divide
-.PHONY : divide
-
-# fast build rule for target.
-divide/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/divide.dir/build.make CMakeFiles/divide.dir/build
-.PHONY : divide/fast
 
 #=============================================================================
 # Target rules for targets named ep3_2
@@ -495,30 +456,95 @@ ep3_2/fast:
 .PHONY : ep3_2/fast
 
 #=============================================================================
-# Target rules for targets named main1
+# Target rules for targets named ep5_4
 
 # Build rule for target.
-main1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 main1
-.PHONY : main1
+ep5_4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep5_4
+.PHONY : ep5_4
 
 # fast build rule for target.
-main1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/build
-.PHONY : main1/fast
+ep5_4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_4.dir/build.make CMakeFiles/ep5_4.dir/build
+.PHONY : ep5_4/fast
 
 #=============================================================================
-# Target rules for targets named ep5_5
+# Target rules for targets named draft
 
 # Build rule for target.
-ep5_5: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep5_5
-.PHONY : ep5_5
+draft: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 draft
+.PHONY : draft
 
 # fast build rule for target.
-ep5_5/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep5_5.dir/build.make CMakeFiles/ep5_5.dir/build
-.PHONY : ep5_5/fast
+draft/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/draft.dir/build.make CMakeFiles/draft.dir/build
+.PHONY : draft/fast
+
+#=============================================================================
+# Target rules for targets named swap
+
+# Build rule for target.
+swap: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 swap
+.PHONY : swap
+
+# fast build rule for target.
+swap/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/swap.dir/build.make CMakeFiles/swap.dir/build
+.PHONY : swap/fast
+
+#=============================================================================
+# Target rules for targets named 2dvector_p
+
+# Build rule for target.
+2dvector_p: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2dvector_p
+.PHONY : 2dvector_p
+
+# fast build rule for target.
+2dvector_p/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2dvector_p.dir/build.make CMakeFiles/2dvector_p.dir/build
+.PHONY : 2dvector_p/fast
+
+#=============================================================================
+# Target rules for targets named ep3_1
+
+# Build rule for target.
+ep3_1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep3_1
+.PHONY : ep3_1
+
+# fast build rule for target.
+ep3_1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_1.dir/build.make CMakeFiles/ep3_1.dir/build
+.PHONY : ep3_1/fast
+
+#=============================================================================
+# Target rules for targets named cstringio_example
+
+# Build rule for target.
+cstringio_example: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 cstringio_example
+.PHONY : cstringio_example
+
+# fast build rule for target.
+cstringio_example/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cstringio_example.dir/build.make CMakeFiles/cstringio_example.dir/build
+.PHONY : cstringio_example/fast
+
+#=============================================================================
+# Target rules for targets named draft_2
+
+# Build rule for target.
+draft_2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 draft_2
+.PHONY : draft_2
+
+# fast build rule for target.
+draft_2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/draft_2.dir/build.make CMakeFiles/draft_2.dir/build
+.PHONY : draft_2/fast
 
 #=============================================================================
 # Target rules for targets named ep4_5
@@ -547,6 +573,19 @@ cinout/fast:
 .PHONY : cinout/fast
 
 #=============================================================================
+# Target rules for targets named main1
+
+# Build rule for target.
+main1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 main1
+.PHONY : main1
+
+# fast build rule for target.
+main1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/build
+.PHONY : main1/fast
+
+#=============================================================================
 # Target rules for targets named ep2_1
 
 # Build rule for target.
@@ -558,6 +597,86 @@ ep2_1: cmake_check_build_system
 ep2_1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_1.dir/build.make CMakeFiles/ep2_1.dir/build
 .PHONY : ep2_1/fast
+
+#=============================================================================
+# Target rules for targets named ep4_1
+
+# Build rule for target.
+ep4_1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep4_1
+.PHONY : ep4_1
+
+# fast build rule for target.
+ep4_1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_1.dir/build.make CMakeFiles/ep4_1.dir/build
+.PHONY : ep4_1/fast
+
+#=============================================================================
+# Target rules for targets named divide
+
+# Build rule for target.
+divide: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 divide
+.PHONY : divide
+
+# fast build rule for target.
+divide/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/divide.dir/build.make CMakeFiles/divide.dir/build
+.PHONY : divide/fast
+
+Basic_prac/2d_vector_prac.o: Basic_prac/2d_vector_prac.cpp.o
+
+.PHONY : Basic_prac/2d_vector_prac.o
+
+# target to build an object file
+Basic_prac/2d_vector_prac.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2dvector_p.dir/build.make CMakeFiles/2dvector_p.dir/Basic_prac/2d_vector_prac.cpp.o
+.PHONY : Basic_prac/2d_vector_prac.cpp.o
+
+Basic_prac/2d_vector_prac.i: Basic_prac/2d_vector_prac.cpp.i
+
+.PHONY : Basic_prac/2d_vector_prac.i
+
+# target to preprocess a source file
+Basic_prac/2d_vector_prac.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2dvector_p.dir/build.make CMakeFiles/2dvector_p.dir/Basic_prac/2d_vector_prac.cpp.i
+.PHONY : Basic_prac/2d_vector_prac.cpp.i
+
+Basic_prac/2d_vector_prac.s: Basic_prac/2d_vector_prac.cpp.s
+
+.PHONY : Basic_prac/2d_vector_prac.s
+
+# target to generate assembly for a file
+Basic_prac/2d_vector_prac.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2dvector_p.dir/build.make CMakeFiles/2dvector_p.dir/Basic_prac/2d_vector_prac.cpp.s
+.PHONY : Basic_prac/2d_vector_prac.cpp.s
+
+Basic_prac/OOP_test1.o: Basic_prac/OOP_test1.cpp.o
+
+.PHONY : Basic_prac/OOP_test1.o
+
+# target to build an object file
+Basic_prac/OOP_test1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop1.dir/build.make CMakeFiles/oop1.dir/Basic_prac/OOP_test1.cpp.o
+.PHONY : Basic_prac/OOP_test1.cpp.o
+
+Basic_prac/OOP_test1.i: Basic_prac/OOP_test1.cpp.i
+
+.PHONY : Basic_prac/OOP_test1.i
+
+# target to preprocess a source file
+Basic_prac/OOP_test1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop1.dir/build.make CMakeFiles/oop1.dir/Basic_prac/OOP_test1.cpp.i
+.PHONY : Basic_prac/OOP_test1.cpp.i
+
+Basic_prac/OOP_test1.s: Basic_prac/OOP_test1.cpp.s
+
+.PHONY : Basic_prac/OOP_test1.s
+
+# target to generate assembly for a file
+Basic_prac/OOP_test1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop1.dir/build.make CMakeFiles/oop1.dir/Basic_prac/OOP_test1.cpp.s
+.PHONY : Basic_prac/OOP_test1.cpp.s
 
 Basic_prac/bondini.o: Basic_prac/bondini.cpp.o
 
@@ -613,6 +732,33 @@ Basic_prac/cin_out.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cinout.dir/build.make CMakeFiles/cinout.dir/Basic_prac/cin_out.cpp.s
 .PHONY : Basic_prac/cin_out.cpp.s
 
+Basic_prac/cstringio_example.o: Basic_prac/cstringio_example.cpp.o
+
+.PHONY : Basic_prac/cstringio_example.o
+
+# target to build an object file
+Basic_prac/cstringio_example.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cstringio_example.dir/build.make CMakeFiles/cstringio_example.dir/Basic_prac/cstringio_example.cpp.o
+.PHONY : Basic_prac/cstringio_example.cpp.o
+
+Basic_prac/cstringio_example.i: Basic_prac/cstringio_example.cpp.i
+
+.PHONY : Basic_prac/cstringio_example.i
+
+# target to preprocess a source file
+Basic_prac/cstringio_example.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cstringio_example.dir/build.make CMakeFiles/cstringio_example.dir/Basic_prac/cstringio_example.cpp.i
+.PHONY : Basic_prac/cstringio_example.cpp.i
+
+Basic_prac/cstringio_example.s: Basic_prac/cstringio_example.cpp.s
+
+.PHONY : Basic_prac/cstringio_example.s
+
+# target to generate assembly for a file
+Basic_prac/cstringio_example.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cstringio_example.dir/build.make CMakeFiles/cstringio_example.dir/Basic_prac/cstringio_example.cpp.s
+.PHONY : Basic_prac/cstringio_example.cpp.s
+
 Basic_prac/divide.o: Basic_prac/divide.cpp.o
 
 .PHONY : Basic_prac/divide.o
@@ -639,6 +785,60 @@ Basic_prac/divide.s: Basic_prac/divide.cpp.s
 Basic_prac/divide.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/divide.dir/build.make CMakeFiles/divide.dir/Basic_prac/divide.cpp.s
 .PHONY : Basic_prac/divide.cpp.s
+
+Basic_prac/draft.o: Basic_prac/draft.cpp.o
+
+.PHONY : Basic_prac/draft.o
+
+# target to build an object file
+Basic_prac/draft.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/draft.dir/build.make CMakeFiles/draft.dir/Basic_prac/draft.cpp.o
+.PHONY : Basic_prac/draft.cpp.o
+
+Basic_prac/draft.i: Basic_prac/draft.cpp.i
+
+.PHONY : Basic_prac/draft.i
+
+# target to preprocess a source file
+Basic_prac/draft.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/draft.dir/build.make CMakeFiles/draft.dir/Basic_prac/draft.cpp.i
+.PHONY : Basic_prac/draft.cpp.i
+
+Basic_prac/draft.s: Basic_prac/draft.cpp.s
+
+.PHONY : Basic_prac/draft.s
+
+# target to generate assembly for a file
+Basic_prac/draft.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/draft.dir/build.make CMakeFiles/draft.dir/Basic_prac/draft.cpp.s
+.PHONY : Basic_prac/draft.cpp.s
+
+Basic_prac/draft_2.o: Basic_prac/draft_2.cpp.o
+
+.PHONY : Basic_prac/draft_2.o
+
+# target to build an object file
+Basic_prac/draft_2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/draft_2.dir/build.make CMakeFiles/draft_2.dir/Basic_prac/draft_2.cpp.o
+.PHONY : Basic_prac/draft_2.cpp.o
+
+Basic_prac/draft_2.i: Basic_prac/draft_2.cpp.i
+
+.PHONY : Basic_prac/draft_2.i
+
+# target to preprocess a source file
+Basic_prac/draft_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/draft_2.dir/build.make CMakeFiles/draft_2.dir/Basic_prac/draft_2.cpp.i
+.PHONY : Basic_prac/draft_2.cpp.i
+
+Basic_prac/draft_2.s: Basic_prac/draft_2.cpp.s
+
+.PHONY : Basic_prac/draft_2.s
+
+# target to generate assembly for a file
+Basic_prac/draft_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/draft_2.dir/build.make CMakeFiles/draft_2.dir/Basic_prac/draft_2.cpp.s
+.PHONY : Basic_prac/draft_2.cpp.s
 
 Basic_prac/ep-7-7.6.o: Basic_prac/ep-7-7.6.cpp.o
 
@@ -1458,11 +1658,15 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... 2dvector_p"
 	@echo "... 5.18"
 	@echo "... 7.6"
 	@echo "... bondini"
 	@echo "... cinout"
+	@echo "... cstringio_example"
 	@echo "... divide"
+	@echo "... draft"
+	@echo "... draft_2"
 	@echo "... ep2_1"
 	@echo "... ep2_2"
 	@echo "... ep2_3"
@@ -1490,16 +1694,32 @@ help:
 	@echo "... ep6_6"
 	@echo "... ep6_8"
 	@echo "... main1"
+	@echo "... oop1"
 	@echo "... swap"
+	@echo "... Basic_prac/2d_vector_prac.o"
+	@echo "... Basic_prac/2d_vector_prac.i"
+	@echo "... Basic_prac/2d_vector_prac.s"
+	@echo "... Basic_prac/OOP_test1.o"
+	@echo "... Basic_prac/OOP_test1.i"
+	@echo "... Basic_prac/OOP_test1.s"
 	@echo "... Basic_prac/bondini.o"
 	@echo "... Basic_prac/bondini.i"
 	@echo "... Basic_prac/bondini.s"
 	@echo "... Basic_prac/cin_out.o"
 	@echo "... Basic_prac/cin_out.i"
 	@echo "... Basic_prac/cin_out.s"
+	@echo "... Basic_prac/cstringio_example.o"
+	@echo "... Basic_prac/cstringio_example.i"
+	@echo "... Basic_prac/cstringio_example.s"
 	@echo "... Basic_prac/divide.o"
 	@echo "... Basic_prac/divide.i"
 	@echo "... Basic_prac/divide.s"
+	@echo "... Basic_prac/draft.o"
+	@echo "... Basic_prac/draft.i"
+	@echo "... Basic_prac/draft.s"
+	@echo "... Basic_prac/draft_2.o"
+	@echo "... Basic_prac/draft_2.i"
+	@echo "... Basic_prac/draft_2.s"
 	@echo "... Basic_prac/ep-7-7.6.o"
 	@echo "... Basic_prac/ep-7-7.6.i"
 	@echo "... Basic_prac/ep-7-7.6.s"
