@@ -118,6 +118,150 @@ build oop1.exe: CXX_EXECUTABLE_LINKER__oop1_Debug CMakeFiles\oop1.dir\Basic_prac
   TARGET_PDB = oop1.pdb
 
 # =============================================================================
+# Object build statements for EXECUTABLE target swap
+
+
+#############################################
+# Order-only phony target for swap
+
+build cmake_object_order_depends_target_swap: phony || CMakeFiles\swap.dir
+
+build CMakeFiles\swap.dir\Basic_prac\swap_func.cpp.obj: CXX_COMPILER__swap_Debug ..\..\..\Basic_prac\swap_func.cpp || cmake_object_order_depends_target_swap
+  FLAGS = -m64 -fdiagnostics-absolute-paths  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
+  OBJECT_DIR = CMakeFiles\swap.dir
+  OBJECT_FILE_DIR = CMakeFiles\swap.dir\Basic_prac
+  TARGET_COMPILE_PDB = CMakeFiles\swap.dir\
+  TARGET_PDB = swap.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target swap
+
+
+#############################################
+# Link the executable swap.exe
+
+build swap.exe: CXX_EXECUTABLE_LINKER__swap_Debug CMakeFiles\swap.dir\Basic_prac\swap_func.cpp.obj
+  FLAGS = -m64 -fdiagnostics-absolute-paths  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\swap.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\swap.dir\
+  TARGET_FILE = swap.exe
+  TARGET_IMPLIB = swap.lib
+  TARGET_PDB = swap.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ep4_3
+
+
+#############################################
+# Order-only phony target for ep4_3
+
+build cmake_object_order_depends_target_ep4_3: phony || CMakeFiles\ep4_3.dir
+
+build CMakeFiles\ep4_3.dir\Basic_prac\ep4_prac_3.cpp.obj: CXX_COMPILER__ep4_3_Debug ..\..\..\Basic_prac\ep4_prac_3.cpp || cmake_object_order_depends_target_ep4_3
+  FLAGS = -m64 -fdiagnostics-absolute-paths  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
+  OBJECT_DIR = CMakeFiles\ep4_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\ep4_3.dir\Basic_prac
+  TARGET_COMPILE_PDB = CMakeFiles\ep4_3.dir\
+  TARGET_PDB = ep4_3.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ep4_3
+
+
+#############################################
+# Link the executable ep4_3.exe
+
+build ep4_3.exe: CXX_EXECUTABLE_LINKER__ep4_3_Debug CMakeFiles\ep4_3.dir\Basic_prac\ep4_prac_3.cpp.obj
+  FLAGS = -m64 -fdiagnostics-absolute-paths  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\ep4_3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\ep4_3.dir\
+  TARGET_FILE = ep4_3.exe
+  TARGET_IMPLIB = ep4_3.lib
+  TARGET_PDB = ep4_3.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target bondini
+
+
+#############################################
+# Order-only phony target for bondini
+
+build cmake_object_order_depends_target_bondini: phony || CMakeFiles\bondini.dir
+
+build CMakeFiles\bondini.dir\Basic_prac\bondini.cpp.obj: CXX_COMPILER__bondini_Debug ..\..\..\Basic_prac\bondini.cpp || cmake_object_order_depends_target_bondini
+  FLAGS = -m64 -fdiagnostics-absolute-paths  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
+  OBJECT_DIR = CMakeFiles\bondini.dir
+  OBJECT_FILE_DIR = CMakeFiles\bondini.dir\Basic_prac
+  TARGET_COMPILE_PDB = CMakeFiles\bondini.dir\
+  TARGET_PDB = bondini.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target bondini
+
+
+#############################################
+# Link the executable bondini.exe
+
+build bondini.exe: CXX_EXECUTABLE_LINKER__bondini_Debug CMakeFiles\bondini.dir\Basic_prac\bondini.cpp.obj
+  FLAGS = -m64 -fdiagnostics-absolute-paths  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\bondini.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\bondini.dir\
+  TARGET_FILE = bondini.exe
+  TARGET_IMPLIB = bondini.lib
+  TARGET_PDB = bondini.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Inheritance_prac
+
+
+#############################################
+# Order-only phony target for Inheritance_prac
+
+build cmake_object_order_depends_target_Inheritance_prac: phony || CMakeFiles\Inheritance_prac.dir
+
+build CMakeFiles\Inheritance_prac.dir\Basic_prac\inheritance_prac.cpp.obj: CXX_COMPILER__Inheritance_prac_Debug ..\..\..\Basic_prac\inheritance_prac.cpp || cmake_object_order_depends_target_Inheritance_prac
+  FLAGS = -m64 -fdiagnostics-absolute-paths  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
+  OBJECT_DIR = CMakeFiles\Inheritance_prac.dir
+  OBJECT_FILE_DIR = CMakeFiles\Inheritance_prac.dir\Basic_prac
+  TARGET_COMPILE_PDB = CMakeFiles\Inheritance_prac.dir\
+  TARGET_PDB = Inheritance_prac.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Inheritance_prac
+
+
+#############################################
+# Link the executable Inheritance_prac.exe
+
+build Inheritance_prac.exe: CXX_EXECUTABLE_LINKER__Inheritance_prac_Debug CMakeFiles\Inheritance_prac.dir\Basic_prac\inheritance_prac.cpp.obj
+  FLAGS = -m64 -fdiagnostics-absolute-paths  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\Inheritance_prac.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\Inheritance_prac.dir\
+  TARGET_FILE = Inheritance_prac.exe
+  TARGET_IMPLIB = Inheritance_prac.lib
+  TARGET_PDB = Inheritance_prac.pdb
+
+# =============================================================================
 # Object build statements for EXECUTABLE target cinout
 
 
@@ -442,42 +586,6 @@ build ep2_1.exe: CXX_EXECUTABLE_LINKER__ep2_1_Debug CMakeFiles\ep2_1.dir\Basic_p
   TARGET_PDB = ep2_1.pdb
 
 # =============================================================================
-# Object build statements for EXECUTABLE target swap
-
-
-#############################################
-# Order-only phony target for swap
-
-build cmake_object_order_depends_target_swap: phony || CMakeFiles\swap.dir
-
-build CMakeFiles\swap.dir\Basic_prac\swap_func.cpp.obj: CXX_COMPILER__swap_Debug ..\..\..\Basic_prac\swap_func.cpp || cmake_object_order_depends_target_swap
-  FLAGS = -m64 -fdiagnostics-absolute-paths  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  OBJECT_DIR = CMakeFiles\swap.dir
-  OBJECT_FILE_DIR = CMakeFiles\swap.dir\Basic_prac
-  TARGET_COMPILE_PDB = CMakeFiles\swap.dir\
-  TARGET_PDB = swap.pdb
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target swap
-
-
-#############################################
-# Link the executable swap.exe
-
-build swap.exe: CXX_EXECUTABLE_LINKER__swap_Debug CMakeFiles\swap.dir\Basic_prac\swap_func.cpp.obj
-  FLAGS = -m64 -fdiagnostics-absolute-paths  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd
-  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
-  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
-  OBJECT_DIR = CMakeFiles\swap.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\swap.dir\
-  TARGET_FILE = swap.exe
-  TARGET_IMPLIB = swap.lib
-  TARGET_PDB = swap.pdb
-
-# =============================================================================
 # Object build statements for EXECUTABLE target 5.18
 
 
@@ -584,78 +692,6 @@ build ep2_3.exe: CXX_EXECUTABLE_LINKER__ep2_3_Debug CMakeFiles\ep2_3.dir\Basic_p
   TARGET_FILE = ep2_3.exe
   TARGET_IMPLIB = ep2_3.lib
   TARGET_PDB = ep2_3.pdb
-
-# =============================================================================
-# Object build statements for EXECUTABLE target ep4_3
-
-
-#############################################
-# Order-only phony target for ep4_3
-
-build cmake_object_order_depends_target_ep4_3: phony || CMakeFiles\ep4_3.dir
-
-build CMakeFiles\ep4_3.dir\Basic_prac\ep4_prac_3.cpp.obj: CXX_COMPILER__ep4_3_Debug ..\..\..\Basic_prac\ep4_prac_3.cpp || cmake_object_order_depends_target_ep4_3
-  FLAGS = -m64 -fdiagnostics-absolute-paths  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  OBJECT_DIR = CMakeFiles\ep4_3.dir
-  OBJECT_FILE_DIR = CMakeFiles\ep4_3.dir\Basic_prac
-  TARGET_COMPILE_PDB = CMakeFiles\ep4_3.dir\
-  TARGET_PDB = ep4_3.pdb
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target ep4_3
-
-
-#############################################
-# Link the executable ep4_3.exe
-
-build ep4_3.exe: CXX_EXECUTABLE_LINKER__ep4_3_Debug CMakeFiles\ep4_3.dir\Basic_prac\ep4_prac_3.cpp.obj
-  FLAGS = -m64 -fdiagnostics-absolute-paths  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd
-  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
-  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
-  OBJECT_DIR = CMakeFiles\ep4_3.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ep4_3.dir\
-  TARGET_FILE = ep4_3.exe
-  TARGET_IMPLIB = ep4_3.lib
-  TARGET_PDB = ep4_3.pdb
-
-# =============================================================================
-# Object build statements for EXECUTABLE target bondini
-
-
-#############################################
-# Order-only phony target for bondini
-
-build cmake_object_order_depends_target_bondini: phony || CMakeFiles\bondini.dir
-
-build CMakeFiles\bondini.dir\Basic_prac\bondini.cpp.obj: CXX_COMPILER__bondini_Debug ..\..\..\Basic_prac\bondini.cpp || cmake_object_order_depends_target_bondini
-  FLAGS = -m64 -fdiagnostics-absolute-paths  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  OBJECT_DIR = CMakeFiles\bondini.dir
-  OBJECT_FILE_DIR = CMakeFiles\bondini.dir\Basic_prac
-  TARGET_COMPILE_PDB = CMakeFiles\bondini.dir\
-  TARGET_PDB = bondini.pdb
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target bondini
-
-
-#############################################
-# Link the executable bondini.exe
-
-build bondini.exe: CXX_EXECUTABLE_LINKER__bondini_Debug CMakeFiles\bondini.dir\Basic_prac\bondini.cpp.obj
-  FLAGS = -m64 -fdiagnostics-absolute-paths  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd
-  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
-  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
-  OBJECT_DIR = CMakeFiles\bondini.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\bondini.dir\
-  TARGET_FILE = bondini.exe
-  TARGET_IMPLIB = bondini.lib
-  TARGET_PDB = bondini.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target divide
@@ -1434,6 +1470,8 @@ build 5.18: phony 5.18.exe
 
 build 7.6: phony 7.6.exe
 
+build Inheritance_prac: phony Inheritance_prac.exe
+
 build bondini: phony bondini.exe
 
 build cinout: phony cinout.exe
@@ -1512,7 +1550,7 @@ build swap: phony swap.exe
 #############################################
 # Folder: C:/Users/asse9/source/repos/CPP_proj/out/build/x64-Debug (default)
 
-build all: phony ep4_1.exe oop1.exe cinout.exe ep4_4.exe 2dvector_p.exe main1.exe ep4_2.exe draft_2.exe draft.exe cstringio_example.exe ep2_1.exe swap.exe 5.18.exe ep2_2.exe ep2_3.exe ep4_3.exe bondini.exe divide.exe ep3_1.exe ep3_2.exe ep6_6.exe ep3_3.exe ep4_5.exe ep4_6.exe ep5_1.exe ep5_2.exe ep5_3.exe ep5_4.exe ep5_5.exe ep5_6.exe ep5_7.exe ep5_8.exe ep6_1.exe ep6_2.exe ep6_3.exe ep6_5.exe ep6_8.exe 7.6.exe
+build all: phony ep4_1.exe oop1.exe swap.exe ep4_3.exe bondini.exe Inheritance_prac.exe cinout.exe ep4_4.exe 2dvector_p.exe main1.exe ep4_2.exe draft_2.exe draft.exe cstringio_example.exe ep2_1.exe 5.18.exe ep2_2.exe ep2_3.exe divide.exe ep3_1.exe ep3_2.exe ep6_6.exe ep3_3.exe ep4_5.exe ep4_6.exe ep5_1.exe ep5_2.exe ep5_3.exe ep5_4.exe ep5_5.exe ep5_6.exe ep5_7.exe ep5_8.exe ep6_1.exe ep6_2.exe ep6_3.exe ep6_5.exe ep6_8.exe 7.6.exe
 
 # =============================================================================
 # Built-in targets
@@ -1521,14 +1559,14 @@ build all: phony ep4_1.exe oop1.exe cinout.exe ep4_4.exe 2dvector_p.exe main1.ex
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ..\..\..\CMakeLists.txt C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCXXInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCommonLanguageInclude.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeGenericSystem.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeInitializeConfigs.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeLanguageInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeRCInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeSystemSpecificInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeSystemSpecificInitialize.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\CMakeCommonCompilerMacros.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\Clang-C.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\Clang-CXX.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\Clang.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-Clang-C.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-Clang-CXX.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-Clang.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-MSVC.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\WindowsPaths.cmake CMakeCache.txt CMakeFiles\3.18.20081302-MSVC_2\CMakeCCompiler.cmake CMakeFiles\3.18.20081302-MSVC_2\CMakeCXXCompiler.cmake CMakeFiles\3.18.20081302-MSVC_2\CMakeRCCompiler.cmake CMakeFiles\3.18.20081302-MSVC_2\CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | ..\..\..\Basic_prac\ep6-8-file.txt ..\..\..\CMakeLists.txt C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCXXInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCommonLanguageInclude.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeGenericSystem.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeInitializeConfigs.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeLanguageInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeRCInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeSystemSpecificInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeSystemSpecificInitialize.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\CMakeCommonCompilerMacros.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\Clang-C.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\Clang-CXX.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\Clang.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-Clang-C.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-Clang-CXX.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-Clang.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-MSVC.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\WindowsPaths.cmake CMakeCache.txt CMakeFiles\3.18.20081302-MSVC_2\CMakeCCompiler.cmake CMakeFiles\3.18.20081302-MSVC_2\CMakeCXXCompiler.cmake CMakeFiles\3.18.20081302-MSVC_2\CMakeRCCompiler.cmake CMakeFiles\3.18.20081302-MSVC_2\CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ..\..\..\CMakeLists.txt C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCXXInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCommonLanguageInclude.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeGenericSystem.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeInitializeConfigs.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeLanguageInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeRCInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeSystemSpecificInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeSystemSpecificInitialize.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\CMakeCommonCompilerMacros.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\Clang-C.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\Clang-CXX.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\Clang.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-Clang-C.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-Clang-CXX.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-Clang.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-MSVC.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\WindowsPaths.cmake CMakeCache.txt CMakeFiles\3.18.20081302-MSVC_2\CMakeCCompiler.cmake CMakeFiles\3.18.20081302-MSVC_2\CMakeCXXCompiler.cmake CMakeFiles\3.18.20081302-MSVC_2\CMakeRCCompiler.cmake CMakeFiles\3.18.20081302-MSVC_2\CMakeSystem.cmake: phony
+build ..\..\..\Basic_prac\ep6-8-file.txt ..\..\..\CMakeLists.txt C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCXXInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCommonLanguageInclude.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeGenericSystem.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeInitializeConfigs.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeLanguageInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeRCInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeSystemSpecificInformation.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeSystemSpecificInitialize.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\CMakeCommonCompilerMacros.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\Clang-C.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\Clang-CXX.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Compiler\Clang.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-Clang-C.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-Clang-CXX.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-Clang.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows-MSVC.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\Windows.cmake C$:\Program$ Files$ (x86)\Microsoft$ Visual$ Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\Platform\WindowsPaths.cmake CMakeCache.txt CMakeFiles\3.18.20081302-MSVC_2\CMakeCCompiler.cmake CMakeFiles\3.18.20081302-MSVC_2\CMakeCXXCompiler.cmake CMakeFiles\3.18.20081302-MSVC_2\CMakeRCCompiler.cmake CMakeFiles\3.18.20081302-MSVC_2\CMakeSystem.cmake: phony
 
 
 #############################################
