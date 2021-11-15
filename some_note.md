@@ -1,4 +1,4 @@
-Note 
+# Note 
 
 1. In C++ you can use all standard c functions as long as you input stdio.h
 2. all sentences end with ";", don't forget it.
