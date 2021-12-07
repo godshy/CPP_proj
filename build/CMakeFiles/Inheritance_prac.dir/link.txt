@@ -1,1 +1,1 @@
-/usr/bin/clang++ -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Inheritance_prac.dir/Basic_prac/inheritance_prac.cpp.o -o Inheritance_prac 
+/bin/x86_64-linux-gnu-g++-9  -g   CMakeFiles/Inheritance_prac.dir/Basic_prac/inheritance_prac.cpp.o  -o Inheritance_prac 
