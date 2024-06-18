@@ -1,4 +1,5 @@
-cmake_minimum_required(VERSION 3.17)
+cmake_minimum_required(VERSION 3.16.3)
+# 3.17 on osx
 project(CPP_proj)
 
 set(CMAKE_CXX_STANDARD 14)

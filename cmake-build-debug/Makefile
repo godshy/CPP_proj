@@ -248,32 +248,6 @@ ep5_2/fast:
 .PHONY : ep5_2/fast
 
 #=============================================================================
-# Target rules for targets named ep3_3
-
-# Build rule for target.
-ep3_3: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep3_3
-.PHONY : ep3_3
-
-# fast build rule for target.
-ep3_3/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_3.dir/build.make CMakeFiles/ep3_3.dir/build
-.PHONY : ep3_3/fast
-
-#=============================================================================
-# Target rules for targets named 5.18
-
-# Build rule for target.
-5.18: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 5.18
-.PHONY : 5.18
-
-# fast build rule for target.
-5.18/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/5.18.dir/build.make CMakeFiles/5.18.dir/build
-.PHONY : 5.18/fast
-
-#=============================================================================
 # Target rules for targets named ep6_5
 
 # Build rule for target.
@@ -352,19 +326,6 @@ ep4_4/fast:
 .PHONY : ep4_4/fast
 
 #=============================================================================
-# Target rules for targets named ep2_3
-
-# Build rule for target.
-ep2_3: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep2_3
-.PHONY : ep2_3
-
-# fast build rule for target.
-ep2_3/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_3.dir/build.make CMakeFiles/ep2_3.dir/build
-.PHONY : ep2_3/fast
-
-#=============================================================================
 # Target rules for targets named ep2_2
 
 # Build rule for target.
@@ -376,6 +337,19 @@ ep2_2: cmake_check_build_system
 ep2_2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_2.dir/build.make CMakeFiles/ep2_2.dir/build
 .PHONY : ep2_2/fast
+
+#=============================================================================
+# Target rules for targets named ep2_3
+
+# Build rule for target.
+ep2_3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep2_3
+.PHONY : ep2_3
+
+# fast build rule for target.
+ep2_3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep2_3.dir/build.make CMakeFiles/ep2_3.dir/build
+.PHONY : ep2_3/fast
 
 #=============================================================================
 # Target rules for targets named ep4_3
@@ -495,6 +469,58 @@ swap/fast:
 .PHONY : swap/fast
 
 #=============================================================================
+# Target rules for targets named ep4_5
+
+# Build rule for target.
+ep4_5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep4_5
+.PHONY : ep4_5
+
+# fast build rule for target.
+ep4_5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_5.dir/build.make CMakeFiles/ep4_5.dir/build
+.PHONY : ep4_5/fast
+
+#=============================================================================
+# Target rules for targets named cinout
+
+# Build rule for target.
+cinout: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 cinout
+.PHONY : cinout
+
+# fast build rule for target.
+cinout/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cinout.dir/build.make CMakeFiles/cinout.dir/build
+.PHONY : cinout/fast
+
+#=============================================================================
+# Target rules for targets named main1
+
+# Build rule for target.
+main1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 main1
+.PHONY : main1
+
+# fast build rule for target.
+main1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/build
+.PHONY : main1/fast
+
+#=============================================================================
+# Target rules for targets named Inheritance_prac
+
+# Build rule for target.
+Inheritance_prac: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Inheritance_prac
+.PHONY : Inheritance_prac
+
+# fast build rule for target.
+Inheritance_prac/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Inheritance_prac.dir/build.make CMakeFiles/Inheritance_prac.dir/build
+.PHONY : Inheritance_prac/fast
+
+#=============================================================================
 # Target rules for targets named 2dvector_p
 
 # Build rule for target.
@@ -547,45 +573,6 @@ draft_2/fast:
 .PHONY : draft_2/fast
 
 #=============================================================================
-# Target rules for targets named ep4_5
-
-# Build rule for target.
-ep4_5: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep4_5
-.PHONY : ep4_5
-
-# fast build rule for target.
-ep4_5/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_5.dir/build.make CMakeFiles/ep4_5.dir/build
-.PHONY : ep4_5/fast
-
-#=============================================================================
-# Target rules for targets named cinout
-
-# Build rule for target.
-cinout: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 cinout
-.PHONY : cinout
-
-# fast build rule for target.
-cinout/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cinout.dir/build.make CMakeFiles/cinout.dir/build
-.PHONY : cinout/fast
-
-#=============================================================================
-# Target rules for targets named main1
-
-# Build rule for target.
-main1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 main1
-.PHONY : main1
-
-# fast build rule for target.
-main1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/build
-.PHONY : main1/fast
-
-#=============================================================================
 # Target rules for targets named ep2_1
 
 # Build rule for target.
@@ -610,6 +597,32 @@ ep4_1: cmake_check_build_system
 ep4_1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep4_1.dir/build.make CMakeFiles/ep4_1.dir/build
 .PHONY : ep4_1/fast
+
+#=============================================================================
+# Target rules for targets named 5.18
+
+# Build rule for target.
+5.18: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 5.18
+.PHONY : 5.18
+
+# fast build rule for target.
+5.18/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/5.18.dir/build.make CMakeFiles/5.18.dir/build
+.PHONY : 5.18/fast
+
+#=============================================================================
+# Target rules for targets named ep3_3
+
+# Build rule for target.
+ep3_3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ep3_3
+.PHONY : ep3_3
+
+# fast build rule for target.
+ep3_3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep3_3.dir/build.make CMakeFiles/ep3_3.dir/build
+.PHONY : ep3_3/fast
 
 #=============================================================================
 # Target rules for targets named divide
@@ -1596,6 +1609,33 @@ Basic_prac/ep6_prac_8.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ep6_8.dir/build.make CMakeFiles/ep6_8.dir/Basic_prac/ep6_prac_8.cpp.s
 .PHONY : Basic_prac/ep6_prac_8.cpp.s
 
+Basic_prac/inheritance_prac.o: Basic_prac/inheritance_prac.cpp.o
+
+.PHONY : Basic_prac/inheritance_prac.o
+
+# target to build an object file
+Basic_prac/inheritance_prac.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Inheritance_prac.dir/build.make CMakeFiles/Inheritance_prac.dir/Basic_prac/inheritance_prac.cpp.o
+.PHONY : Basic_prac/inheritance_prac.cpp.o
+
+Basic_prac/inheritance_prac.i: Basic_prac/inheritance_prac.cpp.i
+
+.PHONY : Basic_prac/inheritance_prac.i
+
+# target to preprocess a source file
+Basic_prac/inheritance_prac.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Inheritance_prac.dir/build.make CMakeFiles/Inheritance_prac.dir/Basic_prac/inheritance_prac.cpp.i
+.PHONY : Basic_prac/inheritance_prac.cpp.i
+
+Basic_prac/inheritance_prac.s: Basic_prac/inheritance_prac.cpp.s
+
+.PHONY : Basic_prac/inheritance_prac.s
+
+# target to generate assembly for a file
+Basic_prac/inheritance_prac.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Inheritance_prac.dir/build.make CMakeFiles/Inheritance_prac.dir/Basic_prac/inheritance_prac.cpp.s
+.PHONY : Basic_prac/inheritance_prac.cpp.s
+
 Basic_prac/swap_func.o: Basic_prac/swap_func.cpp.o
 
 .PHONY : Basic_prac/swap_func.o
@@ -1661,6 +1701,7 @@ help:
 	@echo "... 2dvector_p"
 	@echo "... 5.18"
 	@echo "... 7.6"
+	@echo "... Inheritance_prac"
 	@echo "... bondini"
 	@echo "... cinout"
 	@echo "... cstringio_example"
@@ -1804,6 +1845,9 @@ help:
 	@echo "... Basic_prac/ep6_prac_8.o"
 	@echo "... Basic_prac/ep6_prac_8.i"
 	@echo "... Basic_prac/ep6_prac_8.s"
+	@echo "... Basic_prac/inheritance_prac.o"
+	@echo "... Basic_prac/inheritance_prac.i"
+	@echo "... Basic_prac/inheritance_prac.s"
 	@echo "... Basic_prac/swap_func.o"
 	@echo "... Basic_prac/swap_func.i"
 	@echo "... Basic_prac/swap_func.s"
