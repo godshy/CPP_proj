@@ -37,7 +37,7 @@ private:
     vector<int> testScores;
 public:
     Student(string firstName1, string lastName2, int id3, vector<int> Scores) :Person(firstName1, lastName2, id3) {
-        this->firstName = firstName1;
+        this->firstName = firstName1;     //arg in this part should be the same
         this->lastName = lastName2;
         this->id = id3;
         this->testScores = Scores;
