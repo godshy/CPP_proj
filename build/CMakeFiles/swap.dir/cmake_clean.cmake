@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/swap.dir/Basic_prac/swap_func.cpp.o"
+  "CMakeFiles/swap.dir/Basic_prac/swap_func.cpp.o.d"
   "swap"
   "swap.pdb"
 )

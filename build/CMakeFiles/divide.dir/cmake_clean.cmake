@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/divide.dir/Basic_prac/divide.cpp.o"
+  "CMakeFiles/divide.dir/Basic_prac/divide.cpp.o.d"
   "divide"
   "divide.pdb"
 )

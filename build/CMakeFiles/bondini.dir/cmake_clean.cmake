@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/bondini.dir/Basic_prac/bondini.cpp.o"
+  "CMakeFiles/bondini.dir/Basic_prac/bondini.cpp.o.d"
   "bondini"
   "bondini.pdb"
 )

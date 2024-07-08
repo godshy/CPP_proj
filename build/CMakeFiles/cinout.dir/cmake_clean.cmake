@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cinout.dir/Basic_prac/cin_out.cpp.o"
+  "CMakeFiles/cinout.dir/Basic_prac/cin_out.cpp.o.d"
   "cinout"
   "cinout.pdb"
 )

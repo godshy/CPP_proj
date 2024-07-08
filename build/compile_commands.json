@@ -1,197 +1,197 @@
 [
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep6_8.dir/Basic_prac/ep6_prac_8.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep6_prac_8.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep6_prac_8.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/oop1.dir/Basic_prac/OOP_test1.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/OOP_test1.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/OOP_test1.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep6_2.dir/Basic_prac/ep6_prac_2.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep6_prac_2.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep6_prac_2.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/Inheritance_prac.dir/Basic_prac/inheritance_prac.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/inheritance_prac.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/inheritance_prac.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep6_1.dir/Basic_prac/ep6_prac_1.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep6_prac_1.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep6_prac_1.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/2dvector_p.dir/Basic_prac/2d_vector_prac.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/2d_vector_prac.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/2d_vector_prac.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep5_7.dir/Basic_prac/ep5_prac_7.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_7.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_7.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/main1.dir/main.cpp.o -c /home/esnhhoe/CPP_proj/main.cpp",
+  "file": "/home/esnhhoe/CPP_proj/main.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep5_6.dir/Basic_prac/ep5_prac_6.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_6.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_6.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/draft_2.dir/Basic_prac/draft_2.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/draft_2.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/draft_2.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep5_5.dir/Basic_prac/ep5_prac_5.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_5.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_5.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/cstringio_example.dir/Basic_prac/cstringio_example.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/cstringio_example.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/cstringio_example.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep5_3.dir/Basic_prac/ep5_prac_3.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_3.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_3.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/cinout.dir/Basic_prac/cin_out.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/cin_out.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/cin_out.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/7.6.dir/Basic_prac/ep-7-7.6.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep-7-7.6.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep-7-7.6.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/swap.dir/Basic_prac/swap_func.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/swap_func.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/swap_func.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep5_2.dir/Basic_prac/ep5_prac_2.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_2.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_2.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep2_1.dir/Basic_prac/ep2_prac.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep2_prac.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep2_prac.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep6_5.dir/Basic_prac/ep6_prac_5.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep6_prac_5.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep6_prac_5.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep2_2.dir/Basic_prac/ep2_prac_2.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep2_prac_2.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep2_prac_2.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/bondini.dir/Basic_prac/bondini.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/bondini.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/bondini.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep2_3.dir/Basic_prac/ep2_prac_3.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep2_prac_3.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep2_prac_3.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep4_6.dir/Basic_prac/ep4_prac_6.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep4_prac_6.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep4_prac_6.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/bondini.dir/Basic_prac/bondini.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/bondini.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/bondini.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep5_8.dir/Basic_prac/ep5_prac_8.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_8.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_8.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/divide.dir/Basic_prac/divide.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/divide.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/divide.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep5_1.dir/Basic_prac/ep5_prac_1.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_1.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_1.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep3_1.dir/Basic_prac/ep3_prac_1.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep3_prac_1.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep3_prac_1.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep4_4.dir/Basic_prac/ep4_prac_4.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep4_prac_4.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep4_prac_4.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep3_2.dir/Basic_prac/ep3_prac_2.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep3_prac_2.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep3_prac_2.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep2_2.dir/Basic_prac/ep2_prac_2.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep2_prac_2.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep2_prac_2.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep3_3.dir/Basic_prac/ep3_prac_3.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep3_prac_3.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep3_prac_3.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep2_3.dir/Basic_prac/ep2_prac_3.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep2_prac_3.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep2_prac_3.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep4_1.dir/Basic_prac/ep4_prac_1.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep4_prac_1.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep4_prac_1.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep4_3.dir/Basic_prac/ep4_prac_3.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep4_prac_3.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep4_prac_3.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep4_2.dir/Basic_prac/ep4_prac_2.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep4_prac_2.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep4_prac_2.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep6_6.dir/Basic_prac/ep6_prac_6.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep6_prac_6.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep6_prac_6.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep4_3.dir/Basic_prac/ep4_prac_3.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep4_prac_3.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep4_prac_3.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep6_3.dir/Basic_prac/ep6_prac_3.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep6_prac_3.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep6_prac_3.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep4_4.dir/Basic_prac/ep4_prac_4.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep4_prac_4.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep4_prac_4.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/oop1.dir/Basic_prac/OOP_test1.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/OOP_test1.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/OOP_test1.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep4_5.dir/Basic_prac/ep4_prac_5.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep4_prac_5.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep4_prac_5.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep4_2.dir/Basic_prac/ep4_prac_2.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep4_prac_2.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep4_prac_2.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep4_6.dir/Basic_prac/ep4_prac_6.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep4_prac_6.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep4_prac_6.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep3_2.dir/Basic_prac/ep3_prac_2.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep3_prac_2.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep3_prac_2.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/5.18.dir/Basic_prac/ep5_5.18.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep5_5.18.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep5_5.18.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep5_4.dir/Basic_prac/ep5_prac_4.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_4.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_prac_4.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep5_1.dir/Basic_prac/ep5_prac_1.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_1.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_1.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/draft.dir/Basic_prac/draft.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/draft.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/draft.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep5_2.dir/Basic_prac/ep5_prac_2.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_2.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_2.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/swap.dir/Basic_prac/swap_func.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/swap_func.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/swap_func.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep5_3.dir/Basic_prac/ep5_prac_3.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_3.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_3.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep4_5.dir/Basic_prac/ep4_prac_5.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep4_prac_5.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep4_prac_5.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep5_4.dir/Basic_prac/ep5_prac_4.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_4.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_4.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/cinout.dir/Basic_prac/cin_out.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/cin_out.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/cin_out.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep5_5.dir/Basic_prac/ep5_prac_5.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_5.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_5.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/main1.dir/main.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/main.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/main.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep5_6.dir/Basic_prac/ep5_prac_6.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_6.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_6.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/Inheritance_prac.dir/Basic_prac/inheritance_prac.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/inheritance_prac.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/inheritance_prac.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep5_7.dir/Basic_prac/ep5_prac_7.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_7.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_7.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/2dvector_p.dir/Basic_prac/2d_vector_prac.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/2d_vector_prac.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/2d_vector_prac.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep5_8.dir/Basic_prac/ep5_prac_8.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_8.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep5_prac_8.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep3_1.dir/Basic_prac/ep3_prac_1.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep3_prac_1.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep3_prac_1.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep6_1.dir/Basic_prac/ep6_prac_1.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep6_prac_1.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep6_prac_1.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/cstringio_example.dir/Basic_prac/cstringio_example.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/cstringio_example.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/cstringio_example.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep6_2.dir/Basic_prac/ep6_prac_2.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep6_prac_2.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep6_prac_2.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/draft_2.dir/Basic_prac/draft_2.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/draft_2.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/draft_2.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep6_3.dir/Basic_prac/ep6_prac_3.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep6_prac_3.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep6_prac_3.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep2_1.dir/Basic_prac/ep2_prac.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep2_prac.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep2_prac.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep6_5.dir/Basic_prac/ep6_prac_5.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep6_prac_5.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep6_prac_5.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep4_1.dir/Basic_prac/ep4_prac_1.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep4_prac_1.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep4_prac_1.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep6_6.dir/Basic_prac/ep6_prac_6.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep6_prac_6.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep6_prac_6.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/5.18.dir/Basic_prac/ep5_5.18.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_5.18.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep5_5.18.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/ep6_8.dir/Basic_prac/ep6_prac_8.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep6_prac_8.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep6_prac_8.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/ep3_3.dir/Basic_prac/ep3_prac_3.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep3_prac_3.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/ep3_prac_3.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/draft.dir/Basic_prac/draft.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/draft.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/draft.cpp"
 },
 {
-  "directory": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/build",
-  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/divide.dir/Basic_prac/divide.cpp.o -c \"/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/divide.cpp\"",
-  "file": "/Users/shy/Library/Mobile Documents/com~apple~CloudDocs/cl_proj/CPP_proj/Basic_prac/divide.cpp"
+  "directory": "/home/esnhhoe/CPP_proj/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/7.6.dir/Basic_prac/ep-7-7.6.cpp.o -c /home/esnhhoe/CPP_proj/Basic_prac/ep-7-7.6.cpp",
+  "file": "/home/esnhhoe/CPP_proj/Basic_prac/ep-7-7.6.cpp"
 }
 ]

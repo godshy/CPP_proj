@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ep6_5.dir/Basic_prac/ep6_prac_5.cpp.o"
+  "CMakeFiles/ep6_5.dir/Basic_prac/ep6_prac_5.cpp.o.d"
   "ep6_5"
   "ep6_5.pdb"
 )

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cstringio_example.dir/Basic_prac/cstringio_example.cpp.o"
+  "CMakeFiles/cstringio_example.dir/Basic_prac/cstringio_example.cpp.o.d"
   "cstringio_example"
   "cstringio_example.pdb"
 )
