@@ -1,5 +1,5 @@
 //转义符号测试
-
+// some test for git ignore
 #include "iostream"//
 
 
