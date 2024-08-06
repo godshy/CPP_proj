@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/ep5_1.dir/Basic_prac/ep5_prac_1.cpp.o -o ep5_1 

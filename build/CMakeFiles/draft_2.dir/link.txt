@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/draft_2.dir/Basic_prac/draft_2.cpp.o -o draft_2 

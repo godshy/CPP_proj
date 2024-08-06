@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/5.18.dir/Basic_prac/ep5_5.18.cpp.o -o 5.18 

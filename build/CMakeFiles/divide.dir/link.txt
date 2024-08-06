@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/divide.dir/Basic_prac/divide.cpp.o -o divide 

@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/2dvector_p.dir/Basic_prac/2d_vector_prac.cpp.o -o 2dvector_p 

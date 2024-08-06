@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/cstringio_example.dir/Basic_prac/cstringio_example.cpp.o -o cstringio_example 

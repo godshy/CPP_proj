@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/oop1.dir/Basic_prac/OOP_test1.cpp.o -o oop1 

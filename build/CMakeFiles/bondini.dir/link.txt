@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/bondini.dir/Basic_prac/bondini.cpp.o -o bondini 

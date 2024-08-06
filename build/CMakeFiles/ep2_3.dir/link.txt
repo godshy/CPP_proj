@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/ep2_3.dir/Basic_prac/ep2_prac_3.cpp.o -o ep2_3 
